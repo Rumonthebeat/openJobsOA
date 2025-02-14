@@ -21,7 +21,7 @@ class RAGProcessor:
         try:
             df = pd.read_csv(csv_path)
         except FileNotFoundError:
-            raise ValueError(f"CSV文件不存在: {csv_path}")
+            raise ValueError(f"CSV file not found: {csv_path}")
 
         # split to chucks
         text_splitter = RecursiveCharacterTextSplitter(
