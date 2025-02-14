@@ -1,0 +1,3123 @@
+job_id,job_description
+1,"### **Summary**
+
+Rokt is seeking a Highly Skilled Ecommerce Software Architect to join their team in Seattle, WA. The role involves designing, developing, and improving ecommerce technology that enhances customer experiences and empowers marketers.
+
+### **About the Role**
+
+As a Senior Software Engineer, you will be responsible for:
+- Designing, developing, testing, deploying, and improving code that solves real-world problems.
+- Owning complex product features end-to-end, focusing on customer impact.
+- Operating with autonomy in solving problems.
+- Collaborating with other teams to deliver new products.
+- Creating fast, scalable, and easy-to-use applications.
+- Building libraries and frameworks that others can use.
+- Supporting and mentoring other engineers on best practices, architecture, and quality.
+
+### **About You**
+
+**Required:**
+
+- 6+ years of experience in software engineering.
+- Strong commercial experience in languages like Go, Java, C#, or Python.
+- Extensive experience with AWS, GCP, Azure, Kubernetes, and CI/CD pipelines.
+- An eagerness to work and learn openly, sharing knowledge with teammates.
+- A willingness to communicate remotely using chat, docs, video calls, and online tools.
+
+### **Benefits**
+
+- Compensation: \$230k–\$285k per annum, including employee equity plan grants and world-class benefits.
+- Accelerated career growth, with roadmaps to leadership and an annual training allowance of \$5000.
+- Becoming a shareholder, with equity grants in the company.
+- Catered lunch and healthy snacks in the office, plus gym membership and extra leave options.
+- Generous retirement plans and fully funded premium health insurance for your entire family.
+- Dog-friendly office space and flexible working arrangements.
+- Access to the greatest talent in the industry and opportunities to see the world with offices in New York, Seattle, Sydney, Tokyo, and London."
+2,"### **Summary**
+
+Riot Games is seeking a Senior Technical Lead - Game Foundations to join their team in Los Angeles, CA. The role involves leading the design and execution of technical solutions that drive business value for the VALORANT Foundations team.
+
+### **About the Role**
+
+As a Senior Technical Lead, you will be responsible for collaborating with cross-functional teams to deliver complex projects that empower developers. Your main tasks will include establishing systems, tools, and best practices for multi-platform game development, mentoring senior engineers, and being hands-on in development by writing high-quality code. You will also identify impactful technology investments and help teams navigate ambiguity by breaking down problems and communicating trade-offs.
+
+### **About You**
+
+**Required:**
+
+- 10+ years experience in professional software development, including shipping multiple games.
+- 2+ years of experience as a technical lead.
+- Have been responsible for driving the design and execution of organization-sized efforts (1-year+ scope).
+- 5+ years professional experience with C++.
+- Experience shipping an Unreal Engine game that targets PC and at least one of Console and Mobile.
+
+### **Benefits**
+
+- Medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match.
+- Flexible work schedules and open paid time off policy.
+- A culture that values teamwork, diversity, and inclusion."
+3,"### **Summary**
+
+BAE Systems is seeking a Principal Software Engineer (Hybrid) to join their team in New York, NY. The role involves developing high-quality, real-time embedded software for fielded electronics platforms as part of a collaborative team focused on defense technologies.
+
+### **About the Role**
+
+As a Principal Software Engineer, you will work across multiple disciplines, collaborating with Systems, Hardware, and Test Engineers throughout all phases of the Software Development Lifecycle. The position requires more than 50% of work to be conducted onsite at a BAE Systems facility. You will be responsible for designing, developing, and implementing software solutions, as well as supporting and maintaining existing software.
+
+### **About You**
+
+**Required:**
+
+- Must be a US Citizen and be able to obtain a Secret clearance.
+- Bachelor's Degree in Computer Science, Electrical Engineering, or other scientific degree with strong software content.
+- 4+ years of experience in software development.
+- Ability to design, develop, and implement software solutions to meet project requirements, including coding, testing, debugging, and documentation.
+- Understanding of software engineering principles, design patterns, and best practices, with the ability to design and develop scalable and maintainable software solutions.
+- Familiarity with the full software development lifecycle, from requirements analysis and design to implementation, testing, deployment, and maintenance.
+- Comfortable supporting and maintaining existing software, troubleshooting technical issues, and implementing bug fixes and enhancements as needed.
+- Strong problem-solving skills that translate to working, maintainable software.
+- Willingness to learn and develop new skills as needed.
+
+**Preferred:**
+
+- Experience in embedded software development.
+- Working knowledge of software tools such as Jira, BitBucket, debuggers, etc.
+- Experience with DO-178 or other defined software process.
+- Experience with Agile Development and DevSecOps.
+- Active Secret Clearance.
+
+### **Benefits**
+
+- Full-Time Salary Range: \$103k–\$176k.
+- Health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance.
+- Employee assistance program, legal plan, and discounts on home, auto, and pet insurance.
+- Paid time off, paid holidays, and other types of leave, including paid parental, military, bereavement, and applicable federal and state sick leave.
+- Participation in the company recognition program for monetary or non-monetary awards."
+4,"### **Summary**
+
+Mastercard is seeking a Gen AI Platform Lead Software Engineer to join their team in New York, NY. The role involves building a holistic platform for Generative AI Large Language Models (LLMs) and driving cloud usage and adoption across the company.
+
+### **About the Role**
+
+As a Gen AI Platform Lead Software Engineer, you will be responsible for designing, configuring, and implementing a Generative AI platform, including MLOps/LLMOps for both commercial and open-source LLMs. Your daily tasks will include ensuring alignment to cloud integration standards, identifying opportunities for efficiency, engaging with IT and business partners to create meaningful roadmaps, and championing Mastercard's engineering principles. You will also participate in the Software Engineering Guild, share knowledge, and drive meaningful metrics.
+
+### **About You**
+
+**Required:**
+
+- Deep understanding of cloud providers including AWS and Azure, especially AI and GenAI-related cloud services (e.g., AWS SageMaker, AWS Bedrock, Azure ML).
+- Experience with Generative AI LLM platform components such as model evaluation, governance, orchestration, and prompt libraries.
+- Solid experience with site reliability engineering and creating resilient, supportable solutions.
+- Strong communication skills, both written and verbal.
+- Proficient in web service design and implementation.
+- Experienced with Python, Java, and other programming languages.
+
+**Preferred:**
+
+- Deep AI/ML experience with data science and analytics.
+- Knowledge of AI-related data platforms (e.g., DataBricks, IBM watsonx).
+- Experience with GenAI code assistants (e.g., GitHub Copilot, AWS Code Whisperer).
+- Understanding of cloud security in regulated markets.
+- Familiarity with different project management methodologies, including Agile/Scrum.
+
+### **Benefits**
+
+- Competitive compensation with eligibility for an annual bonus based on company performance.
+- Comprehensive benefits package including medical, dental, and vision coverage."
+5,"### **Summary**
+
+Shield AI is seeking an **Autonomous Behavior Development and Simulation Expert** to join their team in **Washington, DC**. The role involves developing and implementing autonomous behavior on Group 3 and Group 5 unmanned aircraft, directly impacting the development of the world's best AI pilot, Hivemind.
+
+### **About the Role**
+
+As a **Simulation Software Engineer** with the Hivemind Design Department, you will:
+- Design and develop simulation environments that support the development and implementation of autonomous behavior.
+- Collaborate with cross-functional teams to ensure compliance with DoD and Industry standards.
+- Drive technical design and integration of new simulated payloads for platform testing.
+- Develop and maintain well-defined interfaces for government and business customers.
+
+### **About You**
+
+**Required:**
+- Experience in a relevant DoD modeling and simulation environment.
+- Strong C/C++ development experience and comfortability within UNIX/Linux environments.
+- At least 10 years of industry experience.
+- Experience working on projects with 10+ contributors.
+- BS/MS in Computer Science, Electrical Engineering, Mechanical Engineering, Aerospace Engineering, or similar degree, or equivalent practical experience.
+
+**Preferred:**
+*(No preferred qualifications listed in the job description.)*
+
+### **Benefits**
+
+- Competitive total compensation package, including salary, bonus, benefits, and equity.
+- International benefits for employees working outside the U.S., including international premium, hardship differential, cost of living differential, living quarters allowance, foreign service transfer allowance, equity, international benefits, visa assistance, and relocation assistance.
+- Estimated Salary: **\$202.3k** per year."
+6,"### **Summary**
+
+Humana is seeking a Senior Full Stack Software Engineer to join their team in Concord, NH. The role involves developing scalable software solutions using a diverse range of technologies and programming languages, focusing on both user experience and functionality.
+
+### **About the Role**
+
+As a Senior Full Stack Software Engineer, you will be responsible for all phases of the software development lifecycle, including front-end and back-end development, database integrations, and management of network, hosting, user interface, user experience, and server backend. You will collaborate with experienced developers, engage with Agile teams, and develop solutions using cloud-native stacks. Your role will also involve designing and implementing REST APIs, developing automated test scenarios, and upholding modern development standards.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's Degree in Computer Science or related field.
+- 5 or more years of experience designing, developing, and testing software applications and/or infrastructure.
+- Passion for contributing to an organization focused on continuously improving consumer experiences.
+- Experience with Cloud infrastructure (Azure, GCP).
+- Experience with Vue.js, Node.js, .Net.
+- Experience with DevOps.
+
+**Preferred:**
+
+- Experience with Adobe Product Suite (AEM, Experience Platform).
+- Experience with Test Driven Development (TDD).
+- Master's Degree.
+
+### **Benefits**
+
+- Competitive compensation range of \$106.9k–\$147k per year, with eligibility for a bonus incentive plan based on performance.
+- Comprehensive benefits package including medical, dental, and vision benefits, 401(k) retirement savings plan, paid time off, short-term and long-term disability, and life insurance."
+7,"### **Summary**
+
+Walmart is seeking a Software Engineer III (iOS) to join their team in Hicksville, NY. The role involves contributing to the development of mobile applications, enhancing functionality, and optimizing performance.
+
+### **About the Role**
+
+As a Software Engineer III (iOS), you will be responsible for implementing and enhancing features in iOS applications, collaborating with designers and product managers, participating in code reviews, debugging issues, and continuously learning new iOS technologies. You will work closely with both US and IDC teams to deliver a seamless iOS experience to pharmacy customers.
+
+### **About You**
+
+**Required:**
+
+- Proficiency in Swift with a solid understanding of UIKit, Foundation, and basic iOS architecture.
+- Experience with the full app lifecycle from development to release and updates in the App Store.
+- Familiarity with version control systems like Git, and testing frameworks like XCTest.
+- Basic understanding of design patterns such as MVC or MVVM.
+- Good communication skills and the ability to collaborate within cross-functional teams.
+- Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering or related area.
+- Option 2: 4 years' experience in software engineering or related area.
+
+**Preferred:**
+
+- Background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly.
+- Knowledge of accessibility best practices.
+
+### **Benefits**
+
+- Competitive pay with performance-based bonus awards.
+- 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, and multiple health plans.
+- Health benefits include medical, vision, and dental coverage.
+- Financial benefits include 401(k), stock purchase, and company-paid life insurance.
+- Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting.
+- Additional benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.
+- Annual salary range: \$108k–\$216k."
+8,"### **Summary**
+
+Capital One is seeking a Senior Engineering Director - Full Stack to join their team in Wilmington, DE. The role involves leading a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices and full-stack systems.
+
+### **About the Role**
+
+As a Senior Engineering Director - Full Stack, you will be responsible for leading a team of developers to create solutions that meet regulatory needs for the company. You will share your passion for technology trends, mentor other engineers, and collaborate with digital product managers to deliver robust cloud-based solutions that empower millions of Americans financially.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's Degree
+- At least 4 years of experience in software engineering (Internship experience does not apply)
+- At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+
+**Preferred:**
+
+- Passion for staying on top of tech trends, experimenting with and learning new technologies, and participating in internal & external technology communities.
+
+### **Benefits**
+
+- (No benefits information provided in the job description.)"
+9,"### **Summary**
+
+Walmart is seeking a Senior Software Engineer - Full Stack Python, Gen AI Developer to join their team in Pacifica, CA. The role involves building highly scalable and reliable APIs, services, and applications for the next generation purchase order management system.
+
+### **About the Role**
+
+As a Senior Software Engineer, you will be responsible for leading a team, developing scalable applications, troubleshooting critical software issues, and implementing new architectural patterns. Your daily tasks will include integrating Generative AI models, building user-friendly interfaces with React, and serving as a communication layer between the frontend and backend systems. You will also provide support for existing systems and drive the development of action plans to resolve production issues.
+
+### **About You**
+
+**Required:**
+
+- 7+ years of experience building scalable applications.
+- Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area, or 5 years' experience in software engineering or related area.
+- Strong expertise in development of scalable cloud-native microservices.
+- Strong expertise in designing and building APIs.
+- Strong expertise with Cloud Technologies like Azure and GCP.
+- Strong experience interfacing with Web Services platforms.
+- Familiarity with continuous integration/deployment processes and tools such as Jenkins and Maven.
+
+**Preferred:**
+
+- Master's degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area.
+- Background in creating inclusive digital experiences and knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards.
+
+### **Benefits**
+
+- Competitive pay with performance-based bonus awards.
+- 401(k) match and stock purchase plan.
+- Paid maternity and parental leave, PTO, and multiple health plans.
+- Health benefits including medical, vision, and dental coverage.
+- Additional benefits include short-term and long-term disability, company discounts, and education benefits covering tuition, books, and fees.
+- The annual salary range for this position is \$117k–\$234k."
+10,"### **Summary**
+
+MEMX is seeking a Senior Member of Staff, Client Software Engineering to join their team in Anywhere, United States. The role involves developing applications that support their core trading system and enhancing the user portal for their trading platform.
+
+### **About the Role**
+
+As a Senior Member of Staff, Client Software Engineering, you will be responsible for:
+- Developing applications that administer and support MEMX's core trading system.
+- Working on the user portal to the trading platform, creating improvements and building products for internal and external users.
+- Collaborating with Product Managers and stakeholders to understand market complexities and user needs.
+- Ensuring solutions meet current and future user requirements to enhance product offerings.
+- Designing best-in-class systems with a team of experienced developers.
+- Developing and maintaining innovative products that deliver exceptional features and service.
+
+### **About You**
+
+**Required:**
+
+- 8 or more years of web development experience.
+- Bachelor's degree or higher in Computer Science or a comparable discipline.
+- Proficient in HTML5, ES6, CSS.
+- Experienced in REST APIs, NodeJS, React, Angular, or an equivalent web framework, git.
+- Strong professional and interpersonal skills including exceptional customer service, creative problem solving, and effective written and verbal communications.
+- Broad systems thinking - ability to understand connections and relationships across functions and entities for both internal and external constituencies.
+- Demonstrated ability to succeed as a self-starter in a dynamic environment.
+
+**Preferred:**
+
+- Experience with financial markets, distributed systems, and/or high-performance web applications.
+
+### **Benefits**
+
+- Competitive employee benefits and perks.
+- Work From Home.
+- Health Care Plan (Medical, Dental & Vision).
+- Retirement Plan (401k).
+- Life Insurance (Basic, Voluntary & AD&D).
+- Unlimited Paid Time Off.
+- Generous Paid Family Leave.
+- Short Term & Long-Term Disability.
+- Training & Development.
+- Wellness Resources.
+- Pay Range: \$155k–\$190k."
+11,"### **Summary**
+
+State Farm is seeking a Software Engineer Java/Gosu to join their team in Tempe, AZ. The role involves providing production support for the PolicyCenter application and contributing to the modernization of the Personal Lines Auto Policy Administration System.
+
+### **About the Role**
+
+As a Software Engineer, you will be responsible for working on the PLA Incident Management, Technical Triage, and Case Management team across P&C Auto/Fire - Personal Lines Auto teams. Your daily tasks will include supporting the PL-Auto application, collaborating with over 50 product teams, and addressing complex production problems.
+
+### **About You**
+
+**Required:**
+
+- 4+ years of Software Engineering experience, or equivalent.
+- 4+ years of Object JAVA Oriented development experience.
+- 2+ years of Gosu development experience.
+- 2+ years of experience with CI/CD Pipelines and SDLC best practices.
+- Ability to triage complex production problems and Incident Management.
+- Strong aptitude and demonstrated ability to learn new languages and frameworks.
+- Knowledge of agile methodologies.
+- Strong communication skills, both verbal & written.
+- Eligible to lawfully work in the U.S. immediately; employer will not sponsor applicants for U.S. work authorization.
+
+**Preferred:**
+
+- Guidewire PolicyCenter experience is highly preferable.
+- Enthusiasm for innovation and new ideas.
+- Ability to collaborate and build relationships locally & across locations.
+- Flexibility to provide production support on weekends and off-hours as needed.
+
+### **Benefits**
+
+- Competitive benefits and pay with the potential for an annual financial award based on individual and enterprise performance.
+- Compensation Range: \$85.5k–\$241.25k.
+- Potential yearly incentive pay: up to 18% of base salary.
+- 401k Plan.
+- Health Insurance.
+- Dental/Vision plans.
+- Life Insurance.
+- Paid Time Off.
+- Annual Merit Increases.
+- Tuition Reimbursement.
+- Health Initiatives."
+12,"### **Summary**
+
+EMTAK LLC is seeking a Geospatial Data Analyst and Engineer to join their team in Annapolis, MD. The role involves developing cutting-edge geospatial analysis, ETL (Extract, Transform, Load), and visualization microservices to support mission-focused systems.
+
+### **About the Role**
+
+As a Geospatial Data Analyst and Engineer, you will be responsible for designing, implementing, and maintaining scalable and performant Java-based microservices that interact with both relational and NoSQL databases. Your daily tasks will include collaborating with cross-functional teams to gather requirements, developing Java microservices focused on geospatial data processing, and integrating geospatial functionality into services.
+
+### **About You**
+
+**Required:**
+
+- TS/SCI with Polygraph.
+- Bachelor's or higher degree in Computer Science, Software Engineering, or a related field.
+- Understanding of the Java programming language.
+- Understanding of microservices architecture and design principles.
+- Familiarity with relational and NoSQL databases and their interactions.
+- Excellent problem-solving skills and ability to work in a collaborative team environment.
+- Effective communication skills for both technical and non-technical audiences.
+- Self-motivated and able to manage multiple tasks and priorities effectively.
+
+**Preferred:**
+
+- Experience with geospatial libraries and tools (e.g., GDAL, GeoTools).
+- Knowledge of cloud platforms such as AWS.
+- Exposure to containerization technologies (Docker, Kubernetes).
+- Familiarity with version control systems (e.g., Git).
+
+### **Benefits**
+
+- No benefits information provided."
+13,"### **Summary**
+
+Uber is seeking a Senior Software Engineer - Backend to join their team in Seattle, WA. The role involves driving the development and operations of security services and frameworks to support user-facing products and platforms across Uber.
+
+### **About the Role**
+
+As a Senior Software Engineer - Backend, you will be responsible for designing, developing, and implementing software solutions to enhance the security posture of the organization. Your daily tasks will include building backend infrastructure for ETL, conducting code reviews and testing, and collaborating with cross-functional teams such as network operations, incident response, and compliance to ensure a cohesive approach to cybersecurity.
+
+### **About You**
+
+**Required:**
+
+- BS/MS Degree in Computer Science or related field.
+- 5+ years of industry experience in a software development environment.
+- Proficiency in programming languages like Java, Golang, or Python.
+- Hands-on experience with middleware, message queues, caches, and other related technologies.
+- Strong experience in architecture design, high-availability, and high-performance systems.
+- Deep understanding of distributed systems.
+
+**Preferred:**
+
+- Prior experience leading the design and development of complex systems, preferably in big data or related fields.
+- Experience with building real-time data pipelines.
+- Deep understanding of distributed systems, such as load balancing, distributed transactions, CAP/BASE, etc.
+- Experience with infrastructure security enhancement, threat detection, and mitigation.
+
+### **Benefits**
+
+- Base salary range for this role is \$185k–\$205.5k per year.
+- Eligibility to participate in Uber's bonus program, and may be offered an equity award & other types of compensation.
+- Various benefits including health insurance."
+14,"### **Summary**
+
+MAG USA Inc. is seeking a Next Generation Threat System Software Engineer to join their team in Lexington Park, MD. The role involves designing and developing software solutions for next-generation threat systems and collaborating with experts in the field.
+
+### **About the Role**
+
+As a Next Generation Threat System Software Engineer, you will be responsible for designing and developing software solutions, collaborating with cross-functional teams for seamless integration, and testing and debugging software to ensure high-quality results.
+
+### **About You**
+
+**Required:**
+
+- 4+ years of experience in software engineering, preferably with EW systems.
+- Strong understanding of programming languages such as C++, Python, and Lua.
+- Experience with database programming and scripting.
+- Excellent communication skills.
+
+**Preferred:**
+
+- Experience with EW systems.
+
+### **Benefits**
+
+- The estimated salary range for this position is \$140,000 to \$180,000 per year, depending on location and qualifications.
+- Benefits and compensation packages will be discussed during the interview process."
+15,"### **Summary**
+
+Coinbase is seeking a Staff Software Engineer, Fullstack (Developer - Onchain Payments) to join their team remotely in the United States. The role involves leading the development of a new onchain payments product that aims to disrupt the payments industry using crypto technology.
+
+### **About the Role**
+
+As a Staff Software Engineer, you will be responsible for bringing a 0-to-1 product to life to replace the global payment stack with crypto rails. Your daily tasks will include leading the fullstack design and development of a secure, high-performance product using TypeScript, Go, and Solidity, rapidly prototyping user flows, integrating with existing Coinbase surfaces, and driving the adoption of a novel open-source web3 payment protocol. You will also optimize performance, troubleshoot complex issues, and provide technical guidance to the engineering team.
+
+### **About You**
+
+**Required:**
+
+- 8+ years of experience in software development with a strong focus on fullstack development; 2+ years of experience in a leadership position of a crypto start-up is a plus.
+- Mastery of Go, JavaScript, TypeScript, and Solidity; familiarity with Ruby is a plus.
+- Proven track record of rapidly shipping high-quality fullstack systems.
+- Deep understanding of Ethereum and EVM-compatible chains and experience with developing smart contracts.
+- Strong expertise in frontend development using modern frameworks like React, Next.js, and Angular.
+- Solid understanding of distributed systems, microservices architecture, and event-driven architectures, including experience with databases (PostgreSQL, MySQL, MongoDB), caching systems (Redis, Memcached), and message queues (Kafka, RabbitMQ).
+- Experience with developer operations, including Cloud providers such as AWS and containerization technologies such as Kubernetes.
+- Deep understanding of web security best practices and experience with implementing secure coding practices for financial systems.
+- Exceptional problem-solving skills and ability to find elegant solutions to complex challenges in the crypto payment processing domain.
+- Outstanding communication, leadership, and collaboration skills, with the ability to inspire and mentor teams.
+- Bachelor's or Master's degree in Computer Science, Software Engineering, or equivalent experience.
+- Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services.
+
+**Preferred:**
+
+- Experience in a leadership position within a crypto start-up.
+- Familiarity with Ruby.
+
+### **Benefits**
+
+- Pay Transparency Notice: Depending on your work location, the target annual salary for this position can range as detailed below.
+- Full-time offers from Coinbase also include target bonus + target equity + benefits (including medical, dental, vision, and 401(k)).
+- \$211.65k–\$249k."
+16,"### **Summary**
+
+Agoda is seeking a Staff Software Engineer – Front End to join their team in Portland, OR. The role involves building, designing, and optimizing user interfaces for their online travel booking platform.
+
+### **About the Role**
+
+As a Staff Software Engineer (Front End) at Agoda, you will be responsible for engaging users with visually appealing and highly functional web applications. Your daily tasks will include collaborating with cross-functional teams to ensure seamless application functionality, driving best practices for performance, and mentoring junior team members.
+
+### **About You**
+
+**Required:**
+
+- At least 8 years of experience in front-end development, particularly with client-side frameworks (React preferred).
+- Strong core front-end skill set in JavaScript and the TypeScript ecosystem.
+- Strong architecture skills and ability to drive decision-making in the team.
+- Experience working with component libraries.
+- Strong product sense and a passion for client-side performance optimization.
+- Demonstrated ability to drive changes and impact across various teams.
+- Love for collaboration through code reviews and architecture discussions.
+
+**Preferred:**
+
+- Experience leading teams and projects to solve significant, complex problems.
+- Experience working in a large-scale app or internet company.
+- Experience in a data-driven company, including analyzing and working with big data.
+- Familiarity with modern JavaScript/TypeScript libraries and tooling (e.g., VueJS, AngularJS).
+- Proficiency in modern coding and design practices, such as Clean Code, SOLID principles, and TDD.
+
+### **Benefits**
+
+Not provided."
+17,"### **Summary**
+
+GSK is seeking an AI/ML Services - Software Engineer to join their team in South San Francisco, CA. The role involves developing cutting-edge products in Machine Learning and AI to transform medicine and improve patient outcomes.
+
+### **About the Role**
+
+As an AI/ML Services - Software Engineer, you will be responsible for building a first-in-class platform that includes tools and services for high-performance computing, model training and deployment, and metrics calculation. Your work will aim to decrease AI/ML cycle times and enhance the quality of shipped services by simplifying platform integration and accelerating R&D processes.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s or graduate degree in Computer Science, preferably focused on software engineering, high-performance computing, or machine learning.
+- 2+ years of industry experience in software design or architecture.
+- Experience in Python and in deploying APIs/backend services.
+- Experience developing services and infrastructure on GCP or similar cloud software development.
+- Experience working with Docker and Kubernetes, or closely related containerization and cluster computing frameworks.
+- Strong sense of the abstractions needed to represent ML products and workflows, with demonstrated experience in database design, operations, and microservice development.
+
+**Preferred:**
+
+- Experience in event-based orchestration for multi-tenant use.
+- Collaboration and a customer-first mindset, with experience partnering with Platform and Infra teams and machine learning product teams.
+- Experience in DevOps and machine learning orchestration (using TensorFlow, Pytorch, or similar).
+- Experience with Search and Ranking, Knowledge Graphs, Feature Stores, or other AI/ML products.
+- Experience upholding software/production best practices in a larger organization.
+- Agile-minded with proficiency in iterative software development and prototyping.
+
+### **Benefits**
+
+- The annual base salary for new hires in this position ranges from \$123.75k to \$206.25k, depending on various factors including work location, skills, experience, and education level.
+- This position offers an annual bonus and eligibility to participate in a share-based long-term incentive program.
+- Available benefits include health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and paid caregiver/parental and medical leave."
+18,"### **Summary**
+
+Recruiting from Scratch is seeking a Robotics Software Engineer to join their team in New York, NY. The role involves architecting and owning a greenfield web application that will revolutionize how developers interact with robotics hardware.
+
+### **About the Role**
+
+As a Robotics Software Engineer, you will be responsible for designing and building an intuitive interface for complex robotics development workflows. You will collaborate with an AI-first approach to create developer tools that understand systems programming and shape the technical direction of a product used by next-generation robotics companies. You will work directly with founding team members in a fast-paced, ownership-driven environment.
+
+### **About You**
+
+**Required:**
+
+- 3+ years of frontend engineering experience, particularly with developer-facing tools.
+- Strong foundation in TypeScript, JavaScript, React, and Node.js.
+- Experience with IDE extensions, developer tools, or systems programming interfaces.
+- Track record of building intuitive UIs for complex technical workflows.
+
+### **Benefits**
+
+- Competitive compensation: \$120k–\$180k base + equity.
+- Comprehensive healthcare coverage.
+- Unlimited PTO with flexible WFH policy.
+- Daily team lunches in a modern office.
+- A ground-floor opportunity at a VC-backed startup with runway."
+19,"### **Summary**
+
+Quantum Information Systems Solutions is seeking a Full Stack Software Engineer to join their team in Michigan. The role involves designing and developing applications from the front-end user interface to the back-end services and database design, ensuring a seamless and high-performing user experience.
+
+### **About the Role**
+
+As a Full Stack Software Engineer at Quantum, you will:
+- Collaborate with design and development teams to architect and develop solutions based on design guidelines and requirements.
+- Assist in the design/concept phase by preparing prototypes and related documentation.
+- Execute the development of easy-to-use, high-performance applications.
+- Ensure solutions are architected for flexibility, performance, and security.
+- Implement front-end solutions that are consistent and compatible across multiple platforms, browsers, devices, and resolutions.
+- Maintain well-commented code and ensure consistency across projects through code standards and documentation.
+- Coordinate with QA team members to ensure developed solutions are easily testable.
+- Maintain updated project documentation and task status using online collaboration tools.
+
+### **About You**
+
+**Required:**
+- Legal authorization to work within the United States.
+- Experience developing web-based applications and services using ASP.NET with experience in both C# and VB.
+- Mastery of front-end web technologies such as HTML, CSS, and JavaScript.
+- Bachelor’s degree or equivalent background/experience in Computer Science, Engineering, Web/Mobile Application Development, or related fields.
+- Experience with databases including Microsoft SQL, Oracle, and MySQL.
+- Meticulous attention to detail and user experience.
+- Excellent analytical and problem-solving skills.
+- Ability to travel globally per client and project requirements.
+
+**Preferred:**
+- Previous experience developing enterprise-grade applications, web APIs, and services.
+- Knowledge of front-end frameworks and technologies such as AngularJS, Bootstrap, jQuery, LESS, and Sass.
+- Experience with front-end libraries like Kendo UI or DevCraft.
+- Strong understanding of responsive design and optimizing media queries for various devices and resolutions.
+- Mobile development experience with iOS and Android.
+- Exposure to server-side frameworks such as Node.js and languages like Java, C++, Objective C, Swift, or Python.
+- Experience working with Functional Requirements, Design Documents, Style Guides, and Design Mockups.
+- Proficiency in graphics tools like Photoshop, Illustrator, or Sketch.
+- Experience in Agile development environments such as Scrum or Kanban.
+- Proficiency with source control management tools like Git and Continuous Integration workflows.
+- Experience developing applications for or supporting manufacturing systems/environments.
+- Knowledge of Windows application design technologies such as WPF, WinForms, Windows Platform, or Windows Mobile.
+- Experience working with international customers and teams.
+- Strong interpersonal, analytical, and communication skills.
+- Independent self-starter and quick learner.
+
+### **Benefits**
+
+*No benefits information provided in the job description.*"
+20,"### **Summary**
+
+NVIDIA is seeking a Senior System Software Engineer, Signing Services to join their team in Santa Clara, CA. The role involves designing, developing, and managing code signing solutions while collaborating with multiple product engineering teams.
+
+### **About the Role**
+
+As a Senior System Software Engineer, you will be responsible for building platforms that enhance NVIDIA's Code Signing strategy. Your daily tasks will include partnering with engineering teams, building secure cloud architecture, defining project roadmaps, designing microservices, and addressing application reliability and scalability challenges.
+
+### **About You**
+
+**Required:**
+
+- BS or MS in Computer Science Engineering or a related field of study (or equivalent experience).
+- 8+ years of experience in architecting, designing, and implementing software engineering solutions, particularly in product development.
+- Solid understanding of cryptographic algorithms, including hashing, signing, and certificate generation.
+- Familiarity with AuthN/AuthZ concepts and frameworks for securing production and corporate access, including SSO, SAML Federated Identity, RBAC, IAM policies, etc.
+- Solid understanding of either Java or .NET programming languages, with experience in relevant frameworks such as Spring and SpringBoot.
+- In-depth knowledge of AWS cloud platform (or other CSPs), with experience architecting high-throughput services.
+- Hands-on experience with CI/CD pipelines and release management tools and end-to-end deployment using cloud services on AWS, including technologies like Kubernetes, Docker, Helm charts, etc.
+
+**Preferred:**
+
+- Prior experience crafting Cryptographic and PKI software systems.
+- Prior technical leadership of cryptographic signing infrastructure, platform or software systems.
+- Experience with threat modeling using tools such as Microsoft Threat Modeling Tool.
+- Background with infrastructure and orchestration tools (Kubernetes, Terraform, GitOps, Swarm, Nomad, etc.).
+- Experience with Google Cloud Platform (GCP), Microsoft Azure, and Oracle Cloud Infrastructure (OCI).
+
+### **Benefits**
+
+- The base salary range is \$184k–\$356.5k.
+- Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+- You will also be eligible for equity and benefits."
+21,"### **Summary**
+
+Capital One is seeking a Cloud-Based Solutions Architect to join their team in Wilmington, DE. The role involves collaborating with product managers and leading a team of developers to create innovative cloud-based solutions.
+
+### **About the Role**
+
+As a Cloud-Based Solutions Architect, you will be responsible for:
+- Collaborating with digital product managers to develop and implement solutions that meet regulatory needs for the company.
+- Leading a team of developers and participating in internal & external technology communities to stay on top of tech trends.
+- Developing and implementing solutions using programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's Degree
+- At least 4 years of experience in software engineering (Internship experience does not apply)
+- At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+
+### **Benefits**
+
+- No benefits information provided."
+22,"### **Summary**
+
+Onyx Point, Inc. is seeking an Enterprise Software Engineering Lead to join their team in Wilmington, NC. The role involves leading a team of senior software engineers and architecting complex software systems.
+
+### **About the Role**
+
+As an Enterprise Software Engineering Lead, you will be responsible for leading a team of senior software engineers and architecting complex software systems. You will work closely with cross-functional teams to design and implement software solutions that meet the needs of our customers and stakeholders. You will also be responsible for mentoring junior software engineers and helping them to develop their skills and expertise.
+
+### **About You**
+
+**Required:**
+
+- Deep understanding of software engineering principles and practices.
+- Strong technical and leadership skills.
+- Excellent communication and collaboration skills.
+
+**Preferred:**
+
+- Experience in designing and implementing scalable, secure, and reliable software systems.
+
+### **Benefits**
+
+- No benefits listed."
+23,"### **Summary**
+
+Lockheed Martin is seeking a Software Engineering Architect - Level 5 to join their team in Fort Worth, TX. The role involves overseeing the technical implementation of the Ground Vehicle Management Systems (GVMS) across multiple programs and developing the architectural roadmap for GVMS products.
+
+### **About the Role**
+
+As a Software Engineering Architect, you will be responsible for:
+- Developing architectural roadmap for the GVMS family of products.
+- Interfacing with program and customer technical counterparts to ensure GVMS products align to customer/program needs.
+- Conducting trade studies and investigations in support of continuing technology maturation of the GVMS products.
+- Identifying new areas of technology growth and determining how to incorporate them into GVMS products.
+- Ensuring adoption of new technologies into GVMS products as appropriate.
+- Assessing and balancing technical team strengths to ensure product technology is matured appropriately.
+- Maintaining architectural standards and implementation detail guides across the GVMS team and within adopting programs.
+- Supporting activities as required by adopting programs, with travel expected to be no more than 25%.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree or above in Engineering.
+- Knowledge of Software Development practices.
+- Experience with graphical user interface development.
+- Experience with Ground System/Ground Station development.
+- Experience with Vehicle Management System development.
+- Knowledge of DevOps principles.
+- Experience with Windows and Linux Operating Environments.
+- Experience with network programming.
+- Experience with C99 and CMake.
+- Must be a US Citizen for consideration and possess a government security clearance (Secret with Investigation or CV date within 5 years).
+
+**Preferred:**
+
+- Experience with LUA.
+- Experience with OpenGL.
+- Experience with video encoding, decoding, and processing.
+- Experience with real-time embedded software development.
+- Experience with technology roadmap development.
+- Experience with software integration and deployment.
+- Experience with customer interaction.
+
+### **Benefits**
+
+- Flexible work schedules and comprehensive benefits investing in your future and security.
+- Schedules range from standard 40 hours over a five-day work week while others may be condensed.
+- Additional time away from the office through condensed schedules, in addition to Paid Time Off benefits.
+- Competitive pay and comprehensive benefits enabling a healthy, fulfilling life at and outside of work.
+- Relocation available: Possible."
+24,"### **Summary**
+
+Imricor Medical Systems is seeking a Senior Software Architect to join their team in Burnsville, MN. The role involves developing and maintaining Linux code for the program user interface (UI) and coordinating several microservices in their mapping and guidance software application.
+
+### **About the Role**
+
+As a Senior Software Architect, you will be responsible for designing, developing, testing, and maintaining new and existing software to facilitate MRI-guided interventional cardiac electrophysiology procedures. Your daily tasks will include developing and implementing design verification and validation plans and reports, authoring technical documentation within the Quality Management System, and collaborating with multiple team members and departments during the design process.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in computer science or related field.
+- 5-7 years of software development experience.
+- Proficiency in Python and JavaScript.
+
+**Preferred:**
+
+- Experience with C# and Java is beneficial.
+- Experience in the medical device industry preferred.
+
+### **Benefits**
+
+- (No benefits listed in the job description.)"
+25,"### **Summary**
+
+Bose is seeking a Product Security Software Engineer (Embedded Software) to join their team in Framingham, MA, United States. The role involves contributing to the security of consumer audio products, ensuring a premium experience with a focus on sound quality and security.
+
+### **About the Role**
+
+As a Product Security Software Engineer, you will be responsible for developing security features and patches for multiple product codebases, designing and testing internal applications for key management and cryptography, and advising engineering peers on security matters. You will work independently and as part of interdisciplinary teams to enhance product security and perform security testing.
+
+### **About You**
+
+**Required:**
+
+- Experience developing for embedded systems and Linux platforms in C, C++.
+- Strong knowledge of cryptographic theory and engineering including encryption, hashing, signing, digital certificates, and hardware security modules (HSMs).
+- Experience mitigating dependency or code-level defects including memory-management issues, input validation, timing attacks, broken authentication, and side channels.
+- Experience with computer networking with a focus on security and IoT applications.
+- A bachelor's degree in computer science, computer engineering, electrical engineering, or a related field with sufficient domain experience.
+- 6 or more years of industry experience working in firmware development with a focus on security.
+
+**Preferred:**
+
+- Experience participating or leading threat modeling sessions.
+- Experience with developing consumer-facing products that interact with mobile apps or cloud/web backends.
+- Experience with Go, Python, and Bash.
+- Experience with risk management frameworks, risk quantification, and processes.
+- Experience integrating security tools and applications into DevOps pipelines.
+- Experience with trusted-enclave applications such as ARM TrustZone.
+- Knowledge and implementation experience of chip-level security capabilities including encryption, secure boot, and authenticated unlocking.
+- Experience with source code management and DevOps tools (Git, Confluence, Jira, Conan, Jenkins, etc.).
+
+### **Benefits**
+
+- Bose is committed to inclusion and diversity, providing reasonable accommodations to individuals with disabilities during the application process."
+26,"### **Summary**
+
+Mondrian Alpha is seeking an Experienced Software Engineer to join their team in New York, NY. The role involves developing and implementing algorithmic trading strategies based on patterns in market data.
+
+### **About the Role**
+
+As an Experienced Software Engineer, you will be responsible for architecting the trading platform, designing and implementing a high-frequency trading platform, optimizing the platform to minimize latency, and building risk-management and performance-tracking tools.
+
+### **About You**
+
+**Required:**
+
+- 3+ years of experience in a similar role.
+- Degree in computer science or a related field.
+- Strong knowledge of C++ as well as Java, Python, Perl, Bash or Shell scripts.
+- Working knowledge of Linux.
+- Ability to work efficiently in a fast-paced environment.
+
+**Preferred:**
+
+- Experience in network and systems programming.
+- Familiarity with algorithmic trading strategies.
+
+### **Benefits**
+
+- Base salary range between \$120k–\$285k, plus a possible discretionary bonus.
+- Exceptional work environment including free daily breakfast, lunch, and snacks.
+- Comprehensive pension, medical and dental insurance.
+- Reimbursement for health and wellness expenses."
+27,"### **Summary**
+
+Aurora Innovation is seeking a Software Engineering Lead - Autonomy Data to join their team in Mountain View, CA. The role involves designing and developing production-ready software solutions to support high-volume data labeling operations and contributing to innovative ML Ops solutions.
+
+### **About the Role**
+
+As a Software Engineering Lead - Autonomy Data, you will be responsible for:
+- Designing and developing production-ready software solutions for data labeling operations.
+- Collaborating with cross-functional teams to drive project delivery.
+- Applying ML Ops best practices to improve data coverage and quality.
+- Contributing to the development of innovative ML Ops solutions.
+
+### **About You**
+
+**Required:**
+- BS / MS / PhD degree in Computer Science or a related field.
+- Expertise with production backend services (Cloud, Kubernetes, DevOps).
+- Experience with C++ and Python.
+- Strong software engineering skills and knowledge of ML Ops best practices.
+
+**Preferred:**
+- *No preferred qualifications listed.*
+
+### **Benefits**
+
+- Competitive salary range: \$144k–\$216k per year.
+- Annual bonus potential.
+- Equity compensation.
+- Comprehensive benefits package, including medical, dental, and vision benefits.
+- Opportunities for professional growth and development."
+28,"### **Summary**
+
+Toyon Research is seeking an AI-ML Software Engineer to join their team in Fort Collins, CO. The role involves developing software in Python or C++ for Artificial Intelligence (AI) and Machine Learning (ML) applications.
+
+### **About the Role**
+
+As an AI-ML Software Engineer, you will work closely with researchers and customers to create state-of-the-art solutions. You will be responsible for developing advanced AI/ML software to solve sensor data processing or control problems, utilizing your strong math and physics knowledge. Experience with Reinforcement Learning (RL) and collaborative environments with configuration management and version control tools is beneficial.
+
+### **About You**
+
+**Required:**
+
+- U.S. Citizenship is Required.
+- Ability to qualify for a US Department of Defense security clearance.
+- Strong math and physics knowledge to develop advanced AI/ML software.
+
+**Preferred:**
+
+- Experience with Reinforcement Learning (RL) and other AI/ML techniques.
+- Experience in image or signal processing.
+- Experience working in a collaborative environment with configuration management and version control tools.
+
+### **Benefits**
+
+- Competitive Industry Pay.
+- 100% Employer-Paid Medical Insurance Premium.
+- HSA with Employer Contributions.
+- Dental and Vision Coverage Options.
+- Company Funded 401(k) and Profit Sharing Plans.
+- Employee Stock Ownership Plan (ESOP).
+- Life and Disability Insurance.
+- Paid Parental Leave.
+- Annual pay range: \$100k–\$180k."
+29,"### **Summary**
+
+Beacon AI is seeking a Staff Software Engineer, Autonomy & Robotics to join their team in San Carlos, CA. The role involves leading the development of robotic software and embedded systems for aviation environments, driving design, integration, testing, and deployment of software functionality in aircraft systems.
+
+### **About the Role**
+
+As a Staff Software Engineer, you will take ownership of critical product lines, collaborate with a distributed team to deliver advanced software features, write and maintain high-quality code, lead system integration, optimize performance by migrating Python code to C++, oversee testing and validation, mentor team members, troubleshoot complex issues, and champion agile software development practices.
+
+### **About You**
+
+**Required:**
+
+- 6-10+ years of experience designing and deploying robotic software and/or embedded systems in dynamic, high-impact environments.
+- Proven track record of working on components of robotic software stacks, such as perception, prediction, planning, or control modules.
+- Deep expertise in Linux, RTOS, or middleware technologies like ROS and DDS.
+- Experience developing software that adheres to aviation industry standards and safety-critical coding practices.
+- Exceptional analytical skills and the ability to resolve complex technical challenges with innovative solutions.
+- Strong interpersonal skills with the ability to lead, mentor, and collaborate effectively across multidisciplinary teams.
+- Applicants must be authorized to work in the United States without the need for visa sponsorship now or in the future.
+
+**Preferred:**
+
+- Enthusiasm for advanced mobility and aviation technologies.
+- Experience with self-driving mobility solutions, drone autopilot, motion planning, or related robotics challenges.
+- Background in applying machine learning techniques to robotics or related fields.
+- Familiarity with the Nvidia family of devices or similar platforms.
+- Hands-on experience with embedded systems, sensors, and driver development.
+
+### **Benefits**
+
+- Comprehensive Healthcare Coverage: 80% of costs covered by the company for the employee and 25% for their dependents.
+- Paid Time Off: 3 weeks of paid vacation, in addition to 14 company-paid holidays each year.
+- Connectivity Stipend: Cell phone benefit to ensure you have the tools needed to excel in your role.
+- Health and Wellness Allowance: Use towards a gym membership or subscription to a meditation app.
+- Financial Planning: 401(k) program available."
+30,"### **Summary**
+
+Northrop Grumman is seeking a Principal / Sr. Principal Embedded Systems Software Expert to join their team in Linthicum Heights, MD. The role involves designing, developing, integrating, and testing software for Space payload units.
+
+### **About the Role**
+
+As a Principal/Sr. Principal Integration & Test Software Engineer, you will support the Space Systems, Payload and Ground Systems Division, Remote Sensing Programs (RSP) Business Unit. Your responsibilities will include:
+
+- Designing, developing, integrating, and testing software that manages a Space payload unit ensuring compliance with established requirements.
+- Working on an agile development team, primarily using C++, Python, and/or TCL.
+- Utilizing automated tools such as Jenkins and Robot Framework to enable automated testing and verification of the Space System.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in computer science, computer engineering, software engineering, or another STEM discipline with a minimum of 5+ years software development experience working on embedded real-time systems or 3+ years with a master's degree or 0 years with a Ph.D.
+- Experience in developing in C++ and/or Python.
+- Experience developing in a Linux and/or Windows environment.
+- U.S. Citizen.
+
+**Preferred:**
+
+- None specified.
+
+### **Benefits**
+
+- Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, company-paid holidays, and paid time off (PTO) for vacation and/or personal business."
+31,"### **Summary**
+
+Proformance Roofing is seeking an IT Infrastructure Manager for the Construction Industry to join their team in Winter Garden, FL. The role involves overseeing and managing the company's internal IT infrastructure, ensuring seamless operations and security across all systems.
+
+### **About the Role**
+
+As an IT Infrastructure Manager, you will be responsible for managing the company's IT infrastructure, including hardware, software, networks, and security systems. Your daily tasks will include managing IT projects, ensuring data security, troubleshooting technical issues, developing IT policies, collaborating with vendors, and supporting software development initiatives.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Information Technology, Computer Science, or a related field.
+- 5+ years of experience in IT management or a similar role.
+- Basic knowledge of software development and coding (e.g., Python, JavaScript, SQL, or similar).
+- Strong problem-solving skills with the ability to manage multiple projects simultaneously.
+- Familiarity with network administration, cloud computing (e.g., AWS, Azure), and IT security best practices.
+- Excellent communication and interpersonal skills to work effectively across teams.
+
+**Preferred:**
+
+- Certification in IT management or related fields (e.g., CompTIA, Microsoft, or ITIL).
+
+### **Benefits**
+
+- Salary Range: \$60,000-\$70,000.
+- Comprehensive benefits package, including medical, dental, and vision insurance.
+- 401(k) plan after just 3 months of employment.
+- 10 days off in your first year, plus 9 paid holidays and a floating holiday to use as you choose."
+32,"### **Summary**
+
+Clockwork is seeking a Distributed Systems Engineer to join their team in Palo Alto, CA. The role involves contributing to the design, development, and deployment of next-generation time-sensitive applications in high-performance, scalable, and reliable systems.
+
+### **About the Role**
+
+As a Distributed Systems Engineer, you will be responsible for designing and implementing high-performance systems, collaborating with cross-functional teams, and staying informed about industry trends and emerging technologies. You will also contribute to research and development initiatives to enhance Clockwork's innovative solutions for real-time distributed systems.
+
+### **About You**
+
+**Required:**
+
+- Relevant degree(s) in Computer Science, Electrical Engineering or related field.
+- Proficiency in at least one of the following programming languages: C, C++, Golang, Java, Python.
+- Strong communication and collaboration skills.
+- Exceptional debugging and problem-solving abilities.
+
+**Preferred:**
+
+- Experience in the design and implementation of high-performance systems.
+- Familiarity with collaboration in cross-functional teams.
+
+### **Benefits**
+
+- Full-time position with opportunities for professional growth and development."
+33,"### **Summary**
+
+NetApp is seeking an Automation Specialist to join their team in Durham, North Carolina. The role involves being part of a high-performing product development team that works on state-of-the-art storage solutions.
+
+### **About the Role**
+
+As an experienced Software Engineer in Test (SDET), you will be responsible for tailoring approaches to meet each customer's unique needs, combining fresh thinking with proven methods. You will work collaboratively with other teams to understand customer use cases and deliver innovative solutions.
+
+### **About You**
+
+**Required:**
+
+- Experience as a Software Engineer in Test (SDET).
+- Ability to work collaboratively with teams.
+
+**Preferred:**
+
+- Experience in product development for storage solutions.
+
+### **Benefits**
+
+- Full-time position."
+34,"### **Summary**
+
+Kismet is seeking an AI-Powered Innovation Leader to join their team in New York, NY. The role involves leveraging full-stack development skills to create scalable and user-centric web applications.
+
+### **About the Role**
+
+As an AI-Powered Innovation Leader, you will be responsible for building scalable, secure backend systems and developing seamless web applications. You will work with cross-functional teams to ensure exceptional user experiences through software craftsmanship.
+
+### **About You**
+
+**Required:**
+
+- Professional experience in full-stack development: Expertise in Next.js, React, and TypeScript.
+- Proven ability to build scalable, secure backend systems: Using NestJS or similar frameworks.
+- Proficiency in relational databases: Preferably PostgreSQL, and ORMs like Prisma.
+- Experience in web application development: With a focus on creating seamless, user-centric solutions.
+- Knowledge of cloud platforms: Especially GCP.
+- Familiarity with authentication systems: OAuth, SSO, and security best practices.
+- A product-first mindset: With a passion for providing exceptional UX through software craftsmanship.
+- Strong collaboration and communication skills: With experience working in cross-functional teams.
+
+**Preferred:**
+
+*(No preferred qualifications listed in the job description.)*
+
+### **Benefits**
+
+*(No benefits listed in the job description.)*"
+35,"### **Summary**
+
+GE Aerospace is seeking a Senior Staff Embedded Software Engineer to join their team in Evendale, OH. The role involves leading the design, implementation, and testing of embedded software for flight critical subsystems to support the safe operation of technology demonstrator vehicles.
+
+### **About the Role**
+
+As a Senior Staff Embedded Software Engineer, you will be responsible for:
+- Leading the design, implementation, and testing of embedded software for flight critical subsystems.
+- Implementing embedded engine software compliant with industry standards such as DO-178C.
+- Testing embedded engine software in simulation and hardware in the loop environments.
+- Gathering and translating customer requirements into executable product specifications.
+- Configuring and controlling computer hardware and I/O boards in embedded systems.
+- Executing laboratory and field validation testing and data acquisition.
+- Providing technical leadership to cross-functional teams.
+- Participating in technical and program reviews and ensuring proper documentation of technical data.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s Degree in Engineering, Physics, Mathematics, or Computer Science from an accredited college or university.
+- Minimum 5 years of experience in an embedded software role.
+- US Person (Citizen, Green Card Holder).
+
+**Preferred:**
+
+- Familiarity with tools such as DOORs/ERM, SCADE, MATLAB, SIMULINK, and desktop simulation using NPSS.
+- Experience with DO-178C and commercial aviation software certification.
+- Embedded development experience using C/C++.
+- Knowledge of networking protocols and digital communication protocols.
+- Experience in real-time software development for embedded systems.
+- Strong leadership and interpersonal skills.
+
+### **Benefits**
+
+Not provided."
+36,"### **Summary**
+
+Capital One is seeking a Senior Software Engineer, DevOps (Bank Tech) to join their team in Philadelphia, PA. The role involves collaborating with Agile teams to design, develop, and support technical solutions in a fast-paced environment.
+
+### **About the Role**
+
+As a Senior Software Engineer, DevOps, you will be responsible for collaborating with Agile teams to design, develop, test, implement, and support technical solutions using full-stack development tools and technologies. You will share your passion for technology trends, mentor other engineers, and work with digital product managers to deliver cloud-based solutions that empower millions of Americans financially. Your technical toolkit will include programming languages like Java, Python, SQL, Ruby, and Go, as well as container orchestration services like Docker and Kubernetes, and configuration management tools like Ansible and Terraform.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree.
+- At least 3 years of experience in DevOps Engineering (Internship experience does not apply).
+- At least 2 years of experience with Cloud Native technologies (Amazon Web Services, Microsoft Azure, Google Cloud Platform).
+- At least 2 years of Unix or Linux system administration experience.
+
+**Preferred:**
+
+- 2+ years of experience with Terraform or Ansible.
+- 2+ years of experience with container orchestration services including Docker or Kubernetes.
+- 2+ years of experience with coding and scripting (Python, SQL, Java, JavaScript, Golang, Bash, Perl, or Ruby).
+- 2+ years of experience working with Agile Development Practices.
+
+### **Benefits**
+
+- Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+- Philadelphia, PA: \$144k–\$164k for Senior Software Engineer.
+- Wilmington, DE: \$144k–\$164k for Senior Software Engineer.
+- Candidates hired to work in other locations will be subject to the pay range associated with that location.
+- This role is also eligible to earn performance-based incentive compensation, which may include cash bonuses and/or long-term incentives (LTI).
+- Capital One offers a comprehensive, competitive, and inclusive set of health, financial, and other benefits that support your total well-being."
+37,"### **Summary**
+
+Antenna Research Associates is seeking an Embedded Software Development Expert to join their team in Billerica, MA. The role involves designing, developing, and implementing software solutions for embedded systems in a fast-paced environment.
+
+### **About the Role**
+
+As an Embedded Software Development Expert, you will be responsible for:
+- Designing, developing, and implementing software solutions to meet project requirements, including coding, testing, debugging, and documentation.
+- Collaborating with cross-functional teams to understand project requirements and translate them into technical specifications.
+- Participating in the full software development lifecycle from requirements analysis and design to implementation, testing, deployment, and maintenance.
+- Utilizing best practices and industry standards in software engineering to ensure high-quality, scalable, and maintainable software solutions.
+- Staying updated on emerging technologies, trends, and best practices in software engineering and incorporating them into engineering processes and products.
+- Conducting code reviews, providing constructive feedback, and contributing to continuous improvement initiatives to enhance team productivity and software quality.
+- Supporting and maintaining existing software, troubleshooting technical issues, and implementing bug fixes and enhancements as needed.
+- Creating modular and library-based designs to facilitate segmented testing, enhance testing efficacy, and precision.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in computer science, electrical engineering, computer engineering, or related field.
+- 2+ years of experience in software engineering roles with proficiency in embedded systems.
+- Strong understanding of embedded systems architecture, hardware-software interfacing, and real-time constraints.
+- Strong proficiency in C/C++ and experience with embedded development tools such as compilers, debuggers, and emulators.
+- Knowledge of real-time operating systems (RTOS) and embedded Linux platforms.
+- Ability to develop and deploy embedded Linux images for production hardware utilizing Yocto.
+- Familiarity with serial protocols such as UART, SPI, I2C, CANBUS.
+- Experience with performing low-level system debugging using tools such as oscilloscope, logic analyzer, etc.
+- Comfortable reading schematics and understanding hardware specifications.
+- Ability to write automated unit and integration tests for embedded hardware projects.
+- Solid understanding of software engineering principles, design patterns, and best practices with the ability to design and develop scalable and maintainable software solutions.
+- Ability to work in a fast-paced and dynamic environment with flexibility to adapt to changing project requirements and priorities.
+- Willingness to learn and develop new skills as needed.
+- Proven ability to work independently and as part of a team.
+- Experience with Agile methodologies.
+
+**Preferred:**
+
+- None specified.
+
+### **Benefits**
+
+- None specified."
+38,"### **Summary**
+
+Capital One is seeking a Distributed Systems Software Engineering Manager to join their team in McLean, VA. The role involves overseeing the development and management of distributed systems software.
+
+### **About the Role**
+
+*No specific responsibilities listed.*
+
+### **About You**
+
+**Required:**
+
+*No specific qualifications listed.*
+
+**Preferred:**
+
+*No specific qualifications listed.*
+
+### **Benefits**
+
+- Capital One offers a comprehensive benefits package that includes health, financial, and other perks.
+- These benefits support your overall well-being and help you grow professionally.
+- Learn more about our benefits program at the Capital One Careers website."
+39,"### **Summary**
+
+Henry Schein One is seeking a Vice President, Software Engineering to join their team in American Fork, UT. The role involves serving as the engineering leader for all North American applications and integrations, overseeing software engineering activities and teams, and ensuring the development and delivery of innovative software solutions.
+
+### **About the Role**
+
+As the Vice President of Software Engineering, you will be responsible for leading product software development, quality assurance, and collaborating on architecture, infosec, and deployment functions. You will direct the overall engineering effort to deliver new or enhanced products to market on schedule, champion modern software development approaches, and act as a customer champion. Additionally, you will formulate and implement software development programs, engage with internal and external stakeholders, and promote Team Schein values within the organization.
+
+### **About You**
+
+**Required:**
+
+- 15+ years of progressive management and leadership experience in an executive-level engineering position.
+- Bachelor’s degree or global equivalent in a related discipline.
+- Experience leading cross-geography, global teams of 200+ full-time employees and 100+ nearshore and offshore resources.
+- Experience with multiple products and software languages.
+- Experience or knowledge of IT/Architecture/Security/Infrastructure.
+- Experience in managing a budget of \$35-\$40 million USD.
+- Deep technical knowledge and expertise.
+- Excellent written and verbal communication skills.
+
+**Preferred:**
+
+- Master's Degree in a related discipline.
+
+### **Benefits**
+
+- The posted range for this position is \$255k–\$325k, which is the expected starting base salary range for an employee who is new to the role to fully proficient in the role.
+- Competitive compensation.
+- Excellent benefits package including medical, dental, and vision coverage, 401K Plan with Company Match, Paid Time Off (PTO), Paid Parental Leave, Short Term Disability, Work Life Assistance Program, Health Savings and Flexible Spending Accounts, Education Benefits, Worldwide Scholarship Program, Volunteer Opportunities, and more."
+40,"### **Summary**
+
+GrayMatter Robotics is seeking a Senior Software Engineering Manager to join their team in Carson, CA. The role involves leading the software development team, mentoring engineers, and developing customer-facing applications.
+
+### **About the Role**
+
+As a Senior Software Engineering Manager, you will be responsible for guiding and mentoring the software team, designing and improving APIs, and developing a customer-facing front-end application. Your daily tasks will include leading the team to foster collaboration and innovation, maintaining APIs for on-premise and cloud-based applications, and taking ownership of large-scale projects from concept to delivery.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's or Master's degree in software development or equivalent industry experience.
+- Proven experience managing and mentoring engineering teams.
+- Experience designing, launching, and versioning APIs.
+- Proficiency in Python and AWS tooling.
+- Experience in frontend development with TypeScript, JS, Node.js, React, or similar.
+
+### **Benefits**
+
+- The base salary range for this position is \$170k–\$200k plus equity.
+- Comprehensive benefits and perks, including medical, dental, vision, unlimited PTO, 401(k) plan + employer match, regular offsite events, and a discretionary fund for enhancing productivity."
+41,"### **Summary**
+
+BAE Systems is seeking a Senior Principal Software Engineer to join their team in Manchester, NH. The role involves developing advanced software solutions for defense-related customers, focusing on areas such as Signals Intelligence, Aircraft Protection, and Electronic Warfare.
+
+### **About the Role**
+
+As a Senior Principal Software Engineer, you will be an integrated team member with leadership opportunities, collaborating with Systems, Hardware, and Test engineers throughout various phases of project planning, requirements development, design, development, integration, and testing. Your responsibilities will include analyzing, designing, coding, and modifying complex software designs primarily in C++, evaluating software designs for flaws, and ensuring effective communication among team members. This position requires full-time onsite work due to the nature of the role.
+
+### **About You**
+
+**Required:**
+
+- Secret Security Clearance (active within the past two years).
+- Bachelor's Degree in computer science, computer engineering, or related field, and a minimum of 8 years of work experience or equivalent experience.
+- Background in real-time embedded software development.
+- Strong C++ experience.
+- Foundation in Object-Oriented design and implementation principles.
+- Experience with software and systems engineering processes, methodologies, and tools.
+- Experience performing software testing, validation, and verification activities.
+- Ability to develop, lead, and motivate small technical teams.
+
+**Preferred:**
+
+- Full life-cycle software development.
+- Software automated test development and execution.
+- Software algorithm development.
+- Agile Development experience.
+- Software/Firmware interface definition.
+- Requirements development.
+- Master's Degree in Computer Science or Computer Engineering.
+
+### **Benefits**
+
+- Full-Time Salary Range: \$122870 - \$208890.
+- Health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance.
+- Employee assistance program, legal plan, and discounts on home, auto, and pet insurance.
+- Paid time off, paid holidays, and other types of leave including paid parental, military, and bereavement leave.
+- Participation in the company recognition program for monetary or non-monetary awards."
+42,"### **Summary**
+
+Northrop Grumman is seeking a Principal Radar Software Engineer/Senior Principal Radar Software Engineer to join their team in Linthicum Heights, MD. The role involves developing, enhancing, and maintaining software on cutting-edge products and systems for mission systems.
+
+### **About the Role**
+
+As a Principal Radar Software Engineer/Senior Principal Radar Software Engineer, you will be an integral part of the Software and Digital Technologies Organization in Mission Systems Engineering. Your responsibilities will include working on software systems throughout all phases of the software development lifecycle, primarily in C/C++. You will utilize Model-based Engineering, DevSecOps, and Agile practices to deliver critical national defense products and capabilities.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s Degree with 5 years of experience, Master’s degree with 3 years of experience, or Ph.D. with 1 year of experience in Science, Technology, Engineering, Mathematics, or related technical fields; an additional 4 years of experience may be considered in lieu of a degree.
+- U.S. Citizenship is required.
+- Ability to obtain and maintain a DoD Secret Clearance prior to starting.
+- Experience working in C and C++.
+- Proficiency in working with real-time embedded software.
+- Experience with VxWorks and/or Linux Operating Systems.
+- Familiarity or prior experience with RF Signal processing.
+- Willing and able to provide leadership and guidance to less experienced engineers.
+
+**Preferred:**
+
+- A current/active DoD Secret clearance.
+- Advanced degrees in Science, Technology, Engineering, Mathematics, or a related technical field.
+- Knowledge of Radar, Electronic Warfare, or Space technologies.
+- Experience with test equipment for radar and electronic warfare systems.
+- Experience with Coverity, JIRA, and BitBucket.
+
+### **Benefits**
+
+- Health Plan, Savings Plan, Paid Time Off, and additional benefits including Education Assistance, Training and Development, and a 9/80 Work Schedule (where available).
+- Salary Range: \$105k–\$158k.
+- Salary Range 2: \$131k–\$197k.
+- Employees may be eligible for a discretionary bonus in addition to base pay."
+43,"### **Summary**
+
+Mujin is seeking a Robotics Software Engineer - Integration to join their team in Suwanee, GA. The role involves collaborating with software development and integration teams to solve technical problems and deliver solutions in industrial robotic systems.
+
+### **About the Role**
+
+As a Robotics Software Engineer - Integration, you will be part of the product development team, supporting the development, configuration, testing, and troubleshooting of critical components of the Mujin system. Your responsibilities will include providing remote and onsite support for integration engineers, automating integration workflows, developing software tool suites, creating documentation, analyzing system performance, and resolving integration-related issues.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree in Computer Science, Robotics, or Computer Engineering; Master’s preferred.
+- Minimum of two years of experience in:
+  - Software configuration and deployment.
+  - Coding in C++, Python, and other languages using Linux.
+  - Generating advanced physics models related to hardware.
+  - Performing reliability and validation testing related to software.
+  - Working with real-time computing technologies, including RTOS, Linux kernel module development, EtherCAT, or similar systems.
+- Willingness to travel 75% of the year for onsite support.
+
+**Preferred:**
+
+- Experience in advanced robotics and automation technologies.
+
+### **Benefits**
+
+- Opportunity to work with cutting-edge robotics technology.
+- Engage with leaders in the robotics space."
+44,"### **Summary**
+
+Cadence is seeking a Senior Principal C++ Software Engineer for the Protium Prototyping Platform Compiler to join their team in San Jose, CA, United States. The role involves designing and developing new features in the compiler and contributing to algorithmic software development for FPGAs.
+
+### **About the Role**
+
+As a Senior Principal C++ Software Engineer, you will be responsible for:
+- Designing and developing new features in the compiler of the Protium Prototyping Platform.
+- Joining the Hardware Verification Research and Development team to contribute to algorithmic software development for FPGAs.
+- Working with a team to provide breakthrough solutions in the multi FPGA prototyping space.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent with a minimum of 10 years of experience OR Master's with a minimum of 7 years of experience OR PhD with a minimum of 5 years of experience.
+- 6-10 years in software development or major personal projects or academic work.
+- Strong CS fundamentals background in data structures, algorithms, systems architecture, and/or databases.
+- Expert in C++, gdb debugging, and general software development skills.
+- Strong desire and ability to work in a fast-paced startup environment.
+- Expert in STA, Synthesis, or QOR improvement techniques in the FPGA prototyping or EDA field.
+
+**Preferred:**
+
+- Multiple avenues of learning and development available for employees to explore as per their specific requirements and interests.
+
+### **Benefits**
+
+- The opportunity to work on cutting-edge technology in an environment that encourages creativity, innovation, and impact.
+- Work with a diverse team of passionate, dedicated, and talented individuals who go above and beyond for customers, communities, and each other every day.
+
+**Salary:** \$195k–\$215k"
+45,"### **Summary**
+
+Snap Inc. is seeking a Staff Software Engineer for Machine Learning Infrastructure to join their team in Los Angeles, CA. The role involves building scalable, reproducible, and easy-to-use end-to-end machine learning workflows for advanced deep learning problems.
+
+### **About the Role**
+
+As a Staff Software Engineer, Machine Learning Infrastructure, you will be responsible for developing machine learning workflows that are scalable and reproducible. Your work will focus on advanced deep learning problems, requiring collaboration with various teams to ensure the systems are highly available and operate at significant scale.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in a technical field such as computer science or equivalent experience.
+- 9+ years of industry software engineering experience.
+- Experience building large-scale production machine learning systems or data pipelines.
+- Experience with backend services or distributed systems.
+- Knowledge of machine learning frameworks such as TensorFlow, Caffe2, PyTorch, Spark ML, scikit-learn, or related frameworks.
+
+**Preferred:**
+
+- Proven track record of operating highly-available systems at significant scale.
+- Ability to collaborate and work well with others.
+- Passion for Snapchat and creativity.
+
+### **Benefits**
+
+- (No benefits listed in the job description)"
+46,"### **Summary**
+
+Waymo is seeking a Python Software Engineer for Autonomous Vehicle Simulation to join their team in Mountain View, CA. The role involves designing, implementing, and operating scalable simulation data pipelines to evaluate the driving capability of their autonomous vehicle.
+
+### **About the Role**
+
+As a Python Software Engineer for Autonomous Vehicle Simulation, you will be responsible for developing and maintaining simulation data pipelines to ensure accurate evaluation of the autonomous vehicle's capabilities. Your daily tasks will include improving signal quality and individual simulations, determining the predictive value of simulation results in real-world driving scenarios, and applying machine learning models to optimize simulation efficiency.
+
+### **About You**
+
+**Required:**
+
+- 2+ years of full-time software engineering experience or a quantitative PhD with professional software engineering experience.
+- C++ basic competency.
+- Python basic competency.
+- SQL basic competency.
+- 1 year of industry experience in a quantitative or quality-focused engineering role.
+- Bachelor's degree in Computer Science.
+
+### **Benefits**
+
+- Competitive salary range for this position is \$180k–\$220k per year.
+- Actual starting pay will be based on job-related factors."
+47,"### **Summary**
+
+Radian is seeking a Principal Software Engineer, Generative AI Application to join their team in a 100% remote capacity. The role involves developing high-quality software solutions utilizing generative AI technologies to enhance Radian's products and services.
+
+### **About the Role**
+
+As a Principal Software Engineer – Generative AI Application, you will be responsible for delivering secure and performant code, developing features and improvements using generative AI technologies, and collaborating with various stakeholders to iterate on new features. You will also mentor team members, communicate complex technical issues, and propose architectural changes to improve performance and scalability.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's Degree or Equivalent Experience.
+- 5 years of prior work-related experience.
+- Professional experience with React, Node.js, Python, JavaScript/TypeScript, C#, and Java.
+- Experience with designing and implementing web applications and consuming RESTful APIs in AWS/Azure.
+- Deep understanding of Python development and its best practices.
+- Experience with LLM tools and frameworks such as OpenAI, Claude, and LangChain.
+- Proficiency in working with RDBMS and No-SQL databases.
+- Understanding of DevOps processes and technologies like Serverless, containers, and Kubernetes.
+
+**Preferred:**
+
+- Experience with the machine learning process of retrieval-augmented generation (RAG), fine-tuning, and MLOps.
+- Proficiency in working with vector databases.
+- Solid understanding of foundation models, custom model training, and lifecycle management.
+- Experience with performance and optimization problems.
+
+### **Benefits**
+
+- Competitive compensation: anticipated base salary rate from \$133k to \$190k based on skills and experience.
+- 25 days of paid time off annually, plus 9 paid holidays and 2 floating holidays.
+- Comprehensive health benefits including multiple medical plan choices, dental, vision, and basic life insurance.
+- 401(k) with a top market company match and immediate vesting.
+- Homebuyer Perks program to assist employees in navigating home ownership processes."
+48,"### **Summary**
+
+Collins Aerospace is seeking an Embedded Software Engineer I to join their team in Aguadilla, Puerto Rico. The role involves developing real-time embedded software to support GPS Receivers product lines.
+
+### **About the Role**
+
+As an Embedded Software Engineer I, you will be responsible for designing, developing, and maintaining software applications using C/C++ and Java. Your daily tasks will include collaborating with cross-functional teams, troubleshooting and optimizing existing code, writing comprehensive documentation, participating in code reviews, and staying current with industry trends in software technologies.
+
+### **About You**
+
+**Required:**
+
+- Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) unless prohibited by local laws/regulations and less than 2 years prior relevant experience.
+- Demonstrated professional experience communicating in English (verbal and written).
+- U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.
+- Must have or be capable of obtaining/maintaining an active U.S. Government security clearance at the Secret level or higher.
+
+**Preferred:**
+
+- Experience developing embedded software utilizing C, C++, Ada or related languages.
+- Experience investigating, troubleshooting and fixing software issues.
+- Familiarity with Agile lifecycle process including Scrum, Continuous Integration, Static Code Analysis using Coverity or equivalent, Unit Test using VectorCast or equivalent, Test-Driven Methodologies and DO-178.
+- Experience developing and integrating real-time embedded software.
+- Knowledge of GPS software architecture including cryptographic, system integrity and security domains separation, area navigation, and GPS ICDs is a Plus.
+
+### **Benefits**
+
+- Medical, dental, and vision insurance.
+- Three weeks of vacation for newly hired employees.
+- Generous 401(k) plan that includes employer matching funds.
+- Participation in the Employee Scholar Program (ESP).
+- Life insurance and disability coverage.
+- Employee Assistance Plan, including up to 8 free counseling sessions."
+49,"### **Summary**
+
+CRG is seeking a Technical Solutions Architect to join their team in Charlotte, NC. The role involves driving sustainable solutions and maturing IT processes for a global Fortune 500 food service provider.
+
+### **About the Role**
+
+As a Technical Solutions Architect, you will be responsible for aligning solution architecture with enterprise strategy, fostering innovation, understanding functionality requirements, developing process improvements, reviewing code changes, mentoring team members, and assisting in troubleshooting and implementing software development lifecycle practices.
+
+### **About You**
+
+**Required:**
+
+- 4+ years of experience as a solution architect or equivalent role.
+- Bachelor's degree or equivalent experience.
+- Excellent analytical, organizational, critical thinking, and problem-solving skills.
+- Good communication skills for presentations, documents, and emails.
+- Ability to work independently and in a team environment.
+
+**Preferred:**
+
+- Experience creating Android mobile applications.
+- Experience working with APIs.
+- Agile/Scrum environment experience.
+- Microsoft Azure DevOps experience.
+
+### **Benefits**
+
+- Competitive pay of \$70+ per hour with a 6-month contract-to-hire arrangement."
+50,"### **Summary**
+
+Delmock Technologies is seeking a Software Engineer - Spring Boot Expert to join their team in Lanham, MD. The role involves designing and developing MeF components using various technologies including Spring Framework and AWS EKS.
+
+### **About the Role**
+
+As a Software Engineer - Spring Boot Expert, you will be responsible for designing and developing MeF components using Spring Framework, JAX-RS, SOAP/JMS Web Services, JPA/Hibernate, Distributed Transaction Management, AWS EKS, and Redhat OpenShift. You will work in a remote environment and must have an active IRS MBI or Public Trust clearance.
+
+### **About You**
+
+**Required:**
+
+- AN ACTIVE IRS MBI OR PUBLIC TRUST CLEARANCE IS REQUIRED TO BE CONSIDERED FOR THIS POSITION.
+- Strong background in Java/JEE development.
+- Experience with Spring Framework, JAX-RS, SOAP/JMS Web Services, JPA/Hibernate, Distributed Transaction Management, AWS EKS, and Redhat OpenShift.
+
+**Preferred:**
+
+- Experience working with Kubernetes, Docker, and Red Hat OpenShift Container platform.
+
+### **Benefits**
+
+Not provided."
+51,"### **Summary**
+
+Spectrum is seeking a Software Engineer IV - Full Stack Developer to join their team in St. Louis, MO. The role involves creating software solutions that enhance customer experience while adhering to business and technical requirements.
+
+### **About the Role**
+
+As a Software Engineer IV, you will work with technical teams to develop, modify, enhance, and implement software systems designed to support business initiatives. Your responsibilities will include designing and implementing new functionality, participating in Agile and Scrum processes, leading code reviews, debugging, and testing software applications, and mentoring junior developers.
+
+### **About You**
+
+**Required:**
+
+- 2-4+ years of experience with database management systems.
+- 2-4+ years of experience in coding, testing, and designing software.
+- 2-4+ years of experience with software development methodologies.
+- BA/BS in Information Technology, Computer Science, or related field or equivalent combination of education and experience.
+- Demonstrated knowledge of one major programming language/tool.
+- Demonstrated knowledge of coding language and syntax, usage of functions and object-oriented patterns.
+- Demonstrated knowledge of environments, docker images, container runtimes, and cloud native app development.
+- Demonstrated knowledge of dependent systems, e.g., up/downstream APIs, clients, data stores.
+- Demonstrated knowledge of design patterns and software architecture patterns.
+- Ability to read, write, speak and understand English.
+- Ability to apply company policies and procedures to resolve a variety of issues.
+- Ability to break down assigned projects into manageable tasks and complete them within a given timeframe.
+
+**Preferred:**
+
+- 2-4 years of experience with JavaScript and Node.js back-end framework.
+- 2-4 years of experience with React Js or similar front-end framework.
+
+### **Benefits**
+
+- Innovative Tools & Tech: Work with high-performing software and applications on the forefront of the digital telecommunications industry.
+- Dynamic Growth: The growth of our industry and evolving technology will power your career as you move up or around the company.
+- Supportive Teams: Who you are matters here. We aim to foster an inclusive workplace where every person is empowered to bring their best ideas."
+52,"### **Summary**
+
+Walmart is seeking a Senior Software Engineer, Mobile to join their team in Larkspur, CA. The role involves delivering features for the Walmart Business Mobile Apps and collaborating with various internal teams.
+
+### **About the Role**
+
+As a Senior Mobile Engineer, you will be responsible for designing and implementing complex features in Walmart's iOS or Android applications. Your daily tasks will include defining the roadmap for the team, focusing on test automation, providing documentation, inspiring best practices, leading a team of senior contributors, and supporting business objectives through collaboration with partners. You will also utilize industry research to improve Walmart's technology environment.
+
+### **About You**
+
+**Required:**
+
+- 5-7+ years of Mobile Engineer experience with iOS or Android.
+- 3+ years of experience building native iOS apps in Swift.
+- Shipped one or more iOS applications that are still available in the App Store.
+- Sound experience in building CI/CD pipelines.
+- Excellent debugging and problem-solving capabilities.
+- Exceptional communication and interpersonal skills.
+- Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area.
+- Option 2: 5 years' experience in software engineering or related area.
+
+**Preferred:**
+
+- Master's degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area.
+- Background in creating inclusive digital experiences and knowledge of implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards.
+
+### **Benefits**
+
+- Competitive pay with performance-based bonus awards.
+- 401(k) match and stock purchase plan.
+- Paid maternity and parental leave.
+- PTO, including sick leave and family care leave.
+- Health benefits including medical, vision, and dental coverage.
+- Additional benefits such as short-term and long-term disability, company discounts, and education benefits. 
+- The annual salary range for this position is \$117,000.00-\$234,000.00."
+53,"### **Summary**
+
+ScriptPro is seeking a Lead Embedded Software Engineer to join their team in Mission, KS. The role involves creating advanced solutions and enhancing existing systems in the pharmacy industry through innovative technology.
+
+### **About the Role**
+
+As a Lead Embedded Software Engineer, you will be responsible for maintaining and enhancing legacy codebases, developing moderate to complex software/firmware, and utilizing development tools such as Xilinx ISE, Vivado, and Code Composer Studio. You will also perform technical root cause analysis, provide reliable solutions to problems, and operate effectively both independently and as part of a team. This is a hybrid position with flexible working hours.
+
+### **About You**
+
+**Required:**
+
+- B.S. or M.S. in Computer Science, Electrical Engineering, or a related field (or equivalent work experience).
+- Experience developing complex VHDL/Verilog code using Xilinx/ISE/Vivado.
+- Experience developing micro blaze processors in Xilinx/ISE/Vivado.
+- Experience using TI Code Composer Studio for developing code for TI DSP processors.
+- Experience developing C code for Atmel AVR/ARM processors.
+- Experience using oscilloscopes, logic analyzers, and various electronics test tools.
+- Strong verbal and written communication skills with Agile team members.
+- Ability to read schematics, manuals, technical whitepapers, and requirements documents.
+- Must have high-speed reliable internet access with a hard-wired connection.
+- Must have a distraction-free home office workspace.
+- Must be willing to participate in video virtual meetings (camera on).
+
+**Preferred:**
+
+- Experience with robotics or programmable motion control applications.
+
+### **Benefits**
+
+- Health: Medical, Dental, Vision, Short-Term Disability, Company Paid Life Insurance & Long-Term Disability, 24/7 on-campus Gym, and Vitality Wellness Program.
+- Well-being: Paid Time Off (PTO, Maternity, Paternity, Adoption Leave), nine (9) paid holidays, paid volunteer hours, Employee Assistance Program, company-sponsored events and team-building activities, 401(k) Retirement Plan with company match, financial investment services, employee discounts on products and services."
+54,"### **Summary**
+
+Capital One is seeking a Lead Software Engineer, DevOps (Python, Kubernetes, AWS) to join their team in Carrollton, TX. The role involves leading technology projects and managing a scalable Kubernetes platform supported by AWS.
+
+### **About the Role**
+
+As a Lead Software Engineer, you will be responsible for building and managing a scalable Kubernetes platform, empowering developers with seamless workflows, and collaborating with digital product managers to deliver robust cloud-based solutions. You will lead a team of developers, share your passion for technology, and utilize various programming languages and tools to drive innovation in the auto finance space.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree.
+- At least 4 years of experience in DevOps Engineering (Internship experience does not apply).
+- At least 3 years of experience in Cloud Native technologies (Amazon Web Services, Microsoft Azure, Google Cloud Platform).
+- At least 4 years of Unix or Linux system administration experience.
+
+**Preferred:**
+
+- 7+ years of DevOps Engineering experience.
+- 4+ years of experience with coding and scripting (Python, SQL, Java, JavaScript, Golang, Bash, Perl or Ruby).
+- 4+ years of experience with technologies like Apache Mesos, Marathon, or Apache Spark.
+- 4+ years of experience using build and deployment tools (Jenkins, Docker).
+- 2+ years of experience with distributed database systems (Cassandra, ElasticSearch).
+- 2+ years of experience with deploying clustered web services.
+- 2+ years of experience working within Agile Development Practices.
+
+### **Benefits**
+
+- Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+- Plano, TX: \$175.8k–\$200.7k for Lead Software Engineer.
+- Candidates hired to work in other locations will be subject to the pay range associated with that location.
+- This role is also eligible to earn performance-based incentive compensation, which may include cash bonuses and/or long-term incentives (LTI).
+- Capital One offers a comprehensive, competitive, and inclusive set of health, financial, and other benefits that support your total well-being."
+55,"### **Summary**
+
+Northrop Grumman is seeking an AI Software Engineer to join their team in Redondo Beach, CA. The role involves designing and managing cloud infrastructure and developing Software as a Service (SaaS) microservices.
+
+### **About the Role**
+
+As an AI Software Engineer, you will be responsible for deploying product updates, setting up software factories, managing virtual machines, containers, and orchestration. You will also develop tools for continuous integration and ensure the security and integrity of data. The position requires collaboration with diverse teams using Agile methodologies and Atlassian tools.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree in a Science, Technology, Engineering, or Mathematics (STEM) discipline from an accredited university with 2 years’ experience in software engineering OR Master’s degree in a STEM discipline from an accredited university with 0 years’ experience in software engineering.
+- Ability to obtain and/or transfer and maintain the final adjudicated government Secret clearance.
+- Experience developing software with C++/Python.
+- Experience in Artificial Intelligence / Machine Learning (AI/ML) development.
+- Experience using Linux.
+
+**Preferred:**
+
+- Proficient in C++11.
+- Current Department of Defense Secret or Top-Secret level security clearance.
+- CUDA experience optimizing algorithms.
+- Relevant experience in user interface development.
+- Experience with software design for manned and/or unmanned vehicles.
+- Experience in programming and scripting languages.
+- Experience with Agile development processes.
+- Excellent communication and interpersonal skills.
+- Flight test experience.
+
+### **Benefits**
+
+- Salary Range: \$108k–\$162k.
+- Employees may be eligible for a discretionary bonus in addition to base pay.
+- Comprehensive benefits package including health insurance coverage, life and disability insurance, savings plan, company-paid holidays, and paid time off (PTO)."
+56,"### **Summary**
+
+Algo Capital Group is seeking a Software Engineer – Options C++ to join their team in Chicago, IL. The role involves leading a team focused on building applications for traders and ensuring access to market data for informed trading decisions.
+
+### **About the Role**
+
+As a Software Engineer – Options C++, you will be responsible for leading a growing team, independently managing large-scale research projects, collaborating with team members on C++ programming solutions, and providing quick solutions in a high-pressure environment.
+
+### **About You**
+
+**Required:**
+
+- Strong experience as a senior engineer in the industry with a focus on C++.
+- Proven track record of working as a leader of a team and having an impact in their growth.
+- Skills in building and optimising trading systems as well as maintaining high performance and quality standards.
+- Familiarity with market data coming from exchanges and making assessments based on those.
+- Understanding of Quantitative Research needs.
+- A solid academic foundation in a STEM discipline with a preference in Engineering.
+
+**Preferred:**
+
+- No additional preferred qualifications listed.
+
+### **Benefits**
+
+- No benefits listed."
+57,"### **Summary**
+
+Elfen Software is seeking a Software Engineer to join their team remotely in the United States. The role involves working closely with the CTO and other engineers/designers to build and improve experiences in their flagship SaaS product.
+
+### **About the Role**
+
+As a Software Engineer, you will be responsible for collaborating with the CTO and the engineering team to enhance the company's SaaS offerings. You will work in an environment that deals with high-scale complex data and business problems, contributing significantly to the team's success.
+
+### **About You**
+
+**Required:**
+
+- At least 5 years of relevant development experience.
+- Demonstrated hands-on experience in building complex and dynamic web pages.
+- Ability to work largely independently but know when to ask for help.
+- A strong desire for personal and professional growth.
+- Smart and dependable with a positive attitude.
+
+**Preferred:**
+
+- Experience with front-end technologies such as .Net v4.5, Bootstrap v3, jQuery v3.3, CSS3, JSON, and C#.
+- Familiarity with API integrations (e.g., payments, shipping, tax, and accounting systems).
+- Knowledge of SQL Server and Azure hosting/devops tools.
+
+### **Benefits**
+
+- Competitive salary range of \$80k–\$120k a year.
+- Work from home flexibility.
+- Full-time position with mentoring and career coaching opportunities."
+58,"### **Summary**
+
+Northrop Grumman is seeking an Embedded Software Engineer- Principal/Sr. Principal to join their team in Annapolis, MD. The role involves designing and implementing software solutions for a broad range of embedded applications.
+
+### **About the Role**
+
+As an Embedded Software Engineer, you will be responsible for supporting varied product lines including AI image processing exploitation, digital signal processing, autonomous vehicle software, command and control, Man-Machine Interfaces, sensor/SONAR systems, and simulation/stimulation. Your daily tasks will include the development of software functional components, algorithms, device controllers, and graphical user interfaces, as well as working in a collaborative Agile software development team environment.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree or higher in Computer Science, Computer Engineering, Electrical Engineering, or other STEM discipline with 5 years of software engineering experience (3 years for MS degree, 0 years for PhD).
+- US Citizenship is required.
+- The ability to obtain and maintain a DoD Secret clearance is required.
+- Experience in software development using C++ and/or Python.
+- Strong Linux and C++ skills.
+
+**Preferred:**
+
+- Working knowledge of Apache Kafka.
+- QT for GUI development.
+- Github and Gitlab experience.
+- MS degree in a STEM discipline.
+- Embedded software system development experience.
+- Experience with sonar or other digital signal processing systems and applications.
+- Active DoD Secret Clearance.
+
+### **Benefits**
+
+- Competitive pay and comprehensive benefits package.
+- Health Plan, Savings Plan, Paid Time Off, and additional benefits including Education Assistance and Training and Development.
+- Salary Range: \$102.4k–\$153.6k (Principal Level) and \$127k–\$190.6k (Sr. Principal Level).
+- Employees may be eligible for a discretionary bonus in addition to base pay."
+59,"### **Summary**
+
+LinkedIn is seeking a Software Engineer - Systems Infrastructure to join their team in Mountain View, CA. The role involves building next-generation infrastructure and platforms for LinkedIn, focusing on large-scale distributed systems.
+
+### **About the Role**
+
+As a Software Engineer - Systems Infrastructure, you will be responsible for designing, implementing, and optimizing the performance of large-scale distributed systems with security and compliance in mind. Your daily tasks will include participating in design and code reviews, partnering with peers to define and build impactful features, and working on various infrastructure projects including application delivery platforms, data storage systems, and AI platforms.
+
+### **About You**
+
+**Required:**
+
+- Must have completed LinkedIn SI Onsite interview between 1/2020 and 6/2023 and had a score of 3.2+ on an IDI module.
+- BA/BS Degree in Computer Science or related technical discipline, or related practical experience.
+- 1+ years of industry experience in software design, development, and algorithm-related solutions.
+- Experience programming in Object-oriented languages such as Java, C++, Python, Go, C#, Rust, and/or Functional languages such as Scala.
+- Skills in distributed systems and backend systems infrastructure.
+
+**Preferred:**
+
+- 2+ years of relevant work experience.
+- MS or PhD in Computer Science or related technical discipline.
+- Experience designing, building, and triaging complex, large-scale distributed systems.
+- Experience with technologies such as Hadoop, Spark, Kubernetes, Feather, GraphQL, GRPC, Apache Kafka, Pinot, Samza, or Venice.
+
+### **Benefits**
+
+- Generous health and wellness programs and time away for employees of all levels.
+- Competitive compensation with a pay range of \$107k–\$176k, based on various factors unique to each candidate.
+- Total compensation package may include annual performance bonus, stock, benefits, and/or other applicable incentive compensation plans."
+60,"### **Summary**
+
+Algo Capital Group is seeking a Senior Software Engineer Low Latency to join their team in Chicago, IL. The role involves designing, developing, and maintaining high-availability systems with strict resource and latency requirements.
+
+### **About the Role**
+
+As a Senior Software Engineer Low Latency, you will be responsible for collaborating with the Core Infrastructure team to design and implement high-availability systems in C++ and Python. Your daily tasks will include troubleshooting and optimizing system performance, staying up-to-date with the latest C++ standards and technologies, and working in a fast-paced environment to achieve project goals.
+
+### **About You**
+
+**Required:**
+
+- Strong background in C++ and Python development.
+- Excellent problem-solving and communication skills.
+- Ability to work in a fast-paced environment.
+
+**Preferred:**
+
+- No additional qualifications or skills mentioned.
+
+### **Benefits**
+
+- A competitive compensation package, opportunities for career growth, and a supportive work environment."
+61,"### **Summary**
+
+Walmart is seeking a Principal, Software Engineer/Architect to join their team in Mountain View, CA. The role involves leading large-scale, complex projects and architecting major components of automation initiatives for AdTech.
+
+### **About the Role**
+
+As a Principal Software Engineer/Architect, you will be responsible for directing root cause analysis of critical business issues, promoting company policies, and developing highly scalable services to process millions of requests per day. You will work closely with data scientists and product managers to enhance the advertiser experience and drive AI/ML capabilities. This hands-on role requires exceptional coding skills and the ability to mentor mid-to-junior engineers.
+
+### **About You**
+
+**Required:**
+
+- 15+ years of experience in software development, focusing on big data processing, real-time serving, and distributed low latency systems.
+- Expert in multiple distributed technologies (e.g., Spark/Storm, Kafka, Key Value Stores, Caching, Solr, Druid, etc.).
+- Proficient in Scala or Java and Full Stack application development.
+- Deep knowledge in the Hadoop ecosystem, including HDFS, Hive, MapReduce, and Presto.
+- Advanced knowledge of complex software design, distributed system design, design patterns, data structures, and algorithms.
+- Experience working as a Machine Learning engineer closely collaborating with data scientists.
+- Experience working with ML frameworks like TensorFlow and ML feature engineering.
+- Experience in one or more public cloud technologies like GCP, Azure, etc.
+- Excellent debugging and problem-solving capability.
+- Experience in working in large teams using CI/CD and agile methodologies.
+- Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years' experience in software engineering or related area.
+- Option 2: 7 years' experience in software engineering or related area.
+
+**Preferred:**
+
+- Master's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area.
+- Background in creating inclusive digital experiences and knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards.
+
+### **Benefits**
+
+- Competitive pay with incentive awards for performance.
+- 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, and multiple health plans.
+- Health benefits including medical, vision, and dental coverage.
+- Financial benefits including 401(k), stock purchase, and company-paid life insurance.
+- Paid time off benefits including PTO, parental leave, family care leave, and more.
+- Additional benefits include short-term and long-term disability, company discounts, and education benefits.
+- The annual salary range for this position is \$143k–\$286k."
+62,"### **Summary**
+
+STERIS is seeking a Director of Embedded Software Leadership to join their team in Mentor, OH. The role involves leading and managing multiple departments, including software, hardware, controls, automation, cybersecurity, testing, integration, and cloud teams, to support innovative solutions in patient care and infection prevention.
+
+### **About the Role**
+
+As the Senior Director of Embedded Software Engineering, you will be responsible for promoting the adoption and implementation of technical methods within various teams, identifying opportunities to leverage innovation and technology, and ensuring cross-functional collaboration across technical domains. Your key responsibilities will include:
+
+- Leading, developing, and implementing technology and process improvements across departments to achieve Steris technology objectives.
+- Overseeing the entire embedded software development lifecycle, from concept to deployment and maintenance.
+- Driving architectural and design decisions for software engineering teams to deliver secure, high-quality, well-tested, and scalable software.
+- Partnering with department leaders and management executives to improve development processes and manage multiple projects.
+- Building systems that adhere to the highest engineering quality standards while maintaining compliance with ISO and FDA standards.
+- Developing new Controls Platforms to meet evolving business requirements.
+- Engaging with customers and partners to ensure a high-quality experience throughout the software and product development cycle.
+- Building a culture of rapid and agile development, mentoring managers and individual contributors, and fostering collaboration across the organization.
+
+### **About You**
+
+**Required:**
+
+- Proven experience in leading embedded software engineering teams.
+- Strong background in software development lifecycle management.
+- Expertise in architectural and design decision-making for software engineering.
+
+**Preferred:**
+
+- Experience in developing Controls Platforms and managing cybersecurity and regulatory requirements.
+- Familiarity with ISO and FDA compliance standards.
+
+### **Benefits**
+
+- Competitive compensation with eligibility for an annual bonus based on company performance.
+- Comprehensive benefits package including medical, dental, and vision coverage."
+63,"### **Summary**
+
+Deseret News is seeking a Mid-level Software Engineer to join their team in Salt Lake City, UT. The role involves development and maintenance of technology for parts of deseret.com and other related websites and apps.
+
+### **About the Role**
+
+As a Mid-level Software Engineer, you will be responsible for developing and maintaining technology for the Deseret News websites and mobile apps. You will work with a team to enhance online news and information delivery, utilizing technologies such as JavaScript, React, and GraphQL. Your daily tasks will include participating in Agile/Scrum methodologies, collaborating with team members, and completing prioritized stories from the product director.
+
+### **About You**
+
+**Required:**
+
+- 3-5 years of current experience with web software development technologies and tools including JavaScript, HTML, CSS, PHP, MySQL/PgSQL.
+- Self-motivated to learn new and emerging technologies.
+- Strong team and individual motivator with a positive attitude.
+- Ability to work independently and collaboratively on large projects.
+- Excellent written and verbal communication skills.
+
+**Preferred:**
+
+- Experience working with JavaScript frameworks, namely NextJS and Express.
+- Experience with front-end technologies (e.g., React).
+- Understanding of best practices and design principles for architecting web applications.
+- Experience working with GraphQL and REST APIs.
+- Experience with source control, specifically GIT.
+- Experience working with PHP and MVC frameworks, namely Symfony.
+- Experience developing within a virtualized environment using Docker.
+- Experience with asset management systems like npm and composer.
+- Familiarity with transpilers for frontend assets like webpack, babel, and SCSS.
+- Experience working with Agile/Scrum methodology and project/story tracking software (Clubhouse, JIRA, Trello, or similar).
+- Experience optimizing and working with high-traffic websites using caching and scalability technologies.
+
+### **Benefits**
+
+- This position will work remotely from the state of Utah and may require occasional office visits."
+64,"### **Summary**
+
+Anthropic is seeking a Software Engineer, API Experience to join their team in Anywhere, United States. The role involves building a world-class developer experience for the Anthropic API, focusing on tools that accelerate developers from idea to deployment.
+
+### **About the Role**
+
+As a Software Engineer, API Experience, you will be responsible for:
+- Building tools to accelerate developers from idea to deployment.
+- Leveraging Claude to improve developer usage of the API, including generating and evaluating prompts.
+- Collaborating closely with other product teams to integrate Claude's capabilities into the developer experience.
+- Building out the frontend and backend to help developers bring their applications to production.
+- Partnering with teams to ensure new product features are intuitively integrated into the developer console.
+- Proposing and implementing improvements to the developer experience of using the API.
+- Working with researchers to understand new model capabilities and design products that maximize user engagement with the Anthropic API.
+
+### **About You**
+
+**Required:**
+
+- 7-10+ years building production full-stack software with a focus on usability.
+- Strong communication skills and user empathy to understand needs.
+- Expertise in modern web development stacks (React, Next.js, etc).
+- Demonstrated strong product mindset and focus on iterative product development.
+
+**Preferred:**
+
+- Experience with React and frontend frameworks.
+- Experience with REST APIs.
+- Experience building products for developers.
+
+### **Benefits**
+
+- Annual salary range of \$300,000—\$405,000 USD.
+- Competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a collaborative office space."
+65,"### **Summary**
+
+Google is seeking a Staff Software Engineer, AI/ML GenAI to join their team in Sunnyvale, TX. The role involves designing, developing, testing, deploying, maintaining, and enhancing large-scale software solutions, with a focus on GenAI technologies.
+
+### **About the Role**
+
+As a Staff Software Engineer, you will be responsible for providing technical leadership on high-impact projects, managing project priorities, deadlines, and deliverables, and facilitating alignment across teams. You will influence and coach a distributed team of engineers, lead the design of GenAI solutions, optimize ML infrastructure, and guide the development of data preparation and model optimization strategies.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree or equivalent practical experience.
+- 8 years of experience in software development, and with data structures/algorithms.
+- 5 years of experience testing and launching software products, and 3 years of experience with software design and architecture.
+- 5 years of experience with state-of-the-art GenAI techniques (e.g., LLMs, Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision).
+- 5 years of experience leading ML design and optimizing ML infrastructure (e.g., model deployment, model evaluation, data processing, debugging, fine-tuning).
+
+**Preferred:**
+
+- Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
+- 3 years of experience in a technical leadership role leading project teams and setting technical direction.
+- 3 years of experience working in an organization involving cross-functional or cross-business projects.
+
+### **Benefits**
+
+- The US base salary range for this full-time position is \$189k–\$284k + bonus + equity + benefits.
+- Tuition Reimbursement, Retirement / Pension Plans, Stock Options, On Site Cafeteria, Paid sick days, Life Insurance, Medical, Dental and Vision, 401K, Flexible Schedules, Employee Events, Maternity/Paternity Paid Leave, Free Food and Coffee, Donation-Matching Program, Work From Home, Paid Holidays, Mobile Phone Discount, Performance bonus, Vacation/paid time off, Professional Development."
+66,"### **Summary**
+
+Capital One is seeking a Senior Software Engineer, DevOps (Principal Associate) to join their team in Hackensack, NJ. The role involves collaborating with Agile teams to design, develop, and support technical solutions in a fast-paced environment.
+
+### **About the Role**
+
+As a Senior Software Engineer, DevOps, you will be responsible for collaborating with Agile teams to design, develop, test, implement, and support technical solutions using full-stack development tools and technologies. You will share your passion for technology trends, mentor other engineers, and work with digital product managers to deliver cloud-based solutions that empower millions of Americans financially. Your work will involve utilizing programming languages such as Java, Python, SQL, Ruby, and Go, along with container orchestration services like Docker and Kubernetes, and various AWS tools and services.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree.
+- At least 3 years of experience in DevOps Engineering (Internship experience does not apply).
+- At least 2 years of experience with Cloud Native technologies (Amazon Web Services, Microsoft Azure, Google Cloud Platform).
+- At least 2 years of Unix or Linux system administration experience.
+
+**Preferred:**
+
+- 2+ years of experience with Terraform or Ansible.
+- 2+ years of experience with container orchestration services including Docker or Kubernetes.
+- 2+ years of experience with coding and scripting (Python, SQL, Java, JavaScript, Golang, Bash, Perl, or Ruby).
+- 2+ years of experience working with Agile Development Practices.
+
+### **Benefits**
+
+- Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+- New York City (Hybrid On-Site): \$165k–\$188k for Senior Software Engineer.
+- Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+- This role is also eligible to earn performance-based incentive compensation, which may include cash bonus(es) and/or long-term incentives (LTI).
+- Capital One offers a comprehensive, competitive, and inclusive set of health, financial, and other benefits that support your total well-being."
+67,"### **Summary**
+
+Actalent is seeking a Senior Embedded Software Engineer to join their team in Woburn, MA. The role involves supporting the development of innovative radar/EW systems through the implementation of digital signal processing.
+
+### **About the Role**
+
+As a Senior Embedded Software Engineer, you will be responsible for collaborating with cross-functional teams to understand and develop system requirements and specifications. Your daily tasks will include designing and implementing signal processing and software solutions, conducting performance analysis through simulations and real-world testing, and preparing documentation, design specifications, test plans, and reports. You may also be tasked with RF systems for airborne applications and will support the development of system architecture.
+
+### **About You**
+
+**Required:**
+
+- Demonstrated experience implementing real-time signal processing solutions in C++ (C++17 or later).
+- Working knowledge of digital signal processing.
+- Familiarity with embedded development; experience with Xilinx MPSoC and RFSoC platforms is a plus.
+- Demonstrated experience in the delivery of advanced development hardware.
+- Capable of effectively working in a team environment, often under tight deadlines.
+- Experience in preparing and delivering briefings, familiarity with the execution of technical reviews (SRRs, PDRs, CDRs, TIMS).
+- Background should include a Bachelor’s degree and at least 5 years of applicable experience; Master’s degree and at least 3 years of applicable experience; or PhD. Equivalent experience will be considered.
+
+**Preferred:**
+
+- Applicable understanding of and experience with Radar systems and their principles of design, development, requirements verification, test planning, test execution, and data analysis.
+- Experience with algorithm implementation in software for real-time systems, especially radar and/or remote sensing.
+- CUDA experience preferred.
+- Proficiency in radar simulation tools (MATLAB).
+- Active Secret or Top Secret security clearance.
+- Applicable domain experience in one or more of the following areas: Electronic Warfare, Antenna Apertures, Sensor Resource Management, Large-Scale Platform Test Systems, Cyber Physical Systems, Open System Architectures (UCI, OMS, COARPS).
+
+### **Benefits**
+
+- Pay range for this position is \$135k–\$150k.
+- Medical, dental & vision.
+- Critical Illness, Accident, and Hospital.
+- 401(k) Retirement Plan – Pre-tax and Roth post-tax contributions available.
+- Life Insurance (Voluntary Life & AD&D for the employee and dependents).
+- Short and long-term disability.
+- Health Spending Account (HSA).
+- Transportation benefits.
+- Employee Assistance Program.
+- Time Off/Leave (PTO, Vacation or Sick Leave)."
+68,"### **Summary**
+
+NVIDIA is seeking a Principal Software Engineer, Visual AI to join their team in Redmond, WA. The role involves driving the capability of developer-facing products for visual search, curation, 3D reconstruction, and more within the visual AI ecosystem.
+
+### **About the Role**
+
+As a Principal Software Engineer, Visual AI, you will contribute to the technical strategy for visual AI developer software, invent and prototype new features and tools, drive new capabilities to production services, lead major projects, collaborate with research teams, and provide technical expertise in deep-learning based computer vision.
+
+### **About You**
+
+**Required:**
+
+- MS or equivalent experience in Computer Science, Computer Engineering, or related field.
+- Outstanding technical breadth across areas such as generative AI, visual understanding, and 3D reconstruction.
+- Proficiency with Python and C++.
+- Basic familiarity with GPU programming, e.g., in CUDA.
+- 10+ year track record of converting research ideas into production software, leading development activities including algorithm selection, implementation, data collection, and validation.
+- Demonstrated innovation resulting in outstanding products, patents, and publications.
+
+**Preferred:**
+
+- Proficiency with common cloud software such as Helm Charts, Milvus, ELK, Docker, etc.
+- Strong software architecture skills.
+- Experience building developer-centric tools and services.
+
+### **Benefits**
+
+- Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+- You will also be eligible for equity and benefits.
+
+**Salary Range:** \$272k–\$426k"
+69,"### **Summary**
+
+Capital One is seeking a Full Stack Developer to join their team in Bloomington, IL. The role involves driving significant transformations within the company by marrying data with emerging technologies to solve complex business problems.
+
+### **About the Role**
+
+As a Senior Software Engineer at Capital One, you will be responsible for collaborating with Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies. Your daily tasks will include designing and developing robust cloud-based solutions using various programming languages and technologies, collaborating with digital product managers to deliver technical solutions, and experimenting with new technologies while staying up-to-date with the latest trends.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's Degree
+- At least 3 years of experience in software engineering
+- Experience with AWS, GCP, Microsoft Azure, or another cloud service
+- Knowledge of open source frameworks
+- Agile practices
+
+### **Benefits**
+
+- Comprehensive set of benefits that support your total well-being, including health, financial, and other benefits."
+70,"### **Summary**
+
+ZipRecruiter is seeking a Databricks Architect to join their team in Santa Monica, CA. The role involves leveraging extensive experience in data governance and data warehousing, particularly with Databricks and cloud data lakes.
+
+### **About the Role**
+
+As a Databricks Architect, you will be responsible for supporting customers by authoring reference architectures, how-to guides, and demo applications. You will also integrate Databricks with third-party applications and design architectures within public clouds such as AWS, Azure, or GCP.
+
+### **About You**
+
+**Required:**
+
+- 15+ years of experience in a technical role with expertise in data governance and data warehousing, including setting up Databricks as a Service model.
+- Production deployment experience with data governance solutions and hands-on experience with cloud data lakes.
+- Experience with design and implementation of data warehousing technologies.
+- Deep specialty expertise with scaling big data workloads that are performant and cost-effective, including technologies such as Delta Lake.
+- Experience working with Enterprise Accounts.
+- Good communication skills.
+
+**Preferred:**
+
+- Experience integrating Databricks with third-party applications to support customer architectures.
+- Experience designing and implementing architectures within public clouds (AWS, Azure, or GCP).
+
+### **Benefits**
+
+Not provided."
+71,"### **Summary**
+
+RED 6 is seeking a Senior Software Engineer, Computer Vision to join their team in Santa Monica, CA. The role involves contributing to the development of next-generation AR systems for military and commercial applications by designing, implementing, and optimizing computer vision algorithms.
+
+### **About the Role**
+
+As a Senior Software Engineer, Computer Vision, you will be responsible for:
+- Designing and implementing advanced algorithms for sensor data fusion, object tracking, and real-time localization tailored for AR applications.
+- Rapidly developing and testing AR software prototypes, integrating real-world hardware to support military training applications.
+- Developing software to integrate various optical sensors, enabling real-time augmented reality experiences for pilots.
+- Ensuring software solutions meet stringent performance, latency, and reliability requirements for dynamic operational environments.
+- Validating and refining software by conducting rigorous testing in real-world scenarios, ensuring reliability and scalability.
+- Collaborating closely with cross-functional teams to transform prototypes into production-ready systems, ensuring seamless hardware and software integration.
+- Generating comprehensive technical documentation, including code structure, algorithms, and testing workflows.
+
+### **About You**
+
+**Required:**
+
+- Bachelor’s degree in Computer Science, Electrical Engineering, or a related field (Master’s preferred).
+- 5+ years of professional experience with C++ development.
+- 5+ years of experience with Python programming.
+- Proven expertise in computer vision techniques, including object tracking, sensor fusion, and real-time localization.
+- Experience developing software for integration with real-world hardware systems.
+- Proficiency in developing and optimizing real-time systems for AR or similar applications.
+- Familiarity with integrating and calibrating optical sensors in software systems.
+- Knowledge of low-latency performance tuning and multi-threaded programming.
+- Strong analytical skills with a proven ability to diagnose and resolve technical challenges in dynamic environments.
+- Ability to thrive in an interdisciplinary team, contributing to hardware and software integration efforts.
+- Clear, professional written and verbal communication skills.
+- Proof of US Citizenship is required for security clearance.
+
+**Preferred:**
+
+- Familiarity with Unreal Engine or similar game engines.
+- Experience with augmented reality hardware or software-driven optical systems.
+- Exposure to military or aviation-related applications is a plus.
+- Out-of-the-box thinker who thrives in an R&D-focused environment.
+
+### **Benefits**
+
+- Healthcare, Dental, and Vision (100% coverage for Employees).
+- Paid time off, including vacation, sick, paid holidays, and parental leave.
+- Short and Long-Term Disability.
+- Flexible Spending Account (FSA).
+- 401(k) Retirement Plan.
+- Voluntary Worksite Benefits (Accident, Critical Illness, and Hospital Indemnity)."
+72,"### **Summary**
+
+Red Hat is seeking a Senior Software Engineer - RHEL AI and Hardware Accelerators to join their team in Boston, MA. The role involves designing, implementing, and productizing a new RHEL AI product, focusing on deep integration of AI stack and hardware accelerators.
+
+### **About the Role**
+
+As a Senior Software Engineer, you will work with a diverse team of engineers to develop and implement software for RHEL AI that leverages hardware accelerators. Your responsibilities will include packaging RHEL AI components, driving certification with vendors, collaborating with engineers for optimal integration, contributing to new feature design, performing performance analysis, writing maintainable code, participating in code reviews, and staying updated on advancements in AI frameworks and hardware accelerators.
+
+### **About You**
+
+**Required:**
+
+- Strong experience with RHEL or other Linux distributions.
+- Ability to work Hybrid in Boston MA, Lowell MA, or Raleigh NC.
+- Experience with a container ecosystem like Docker, Kubernetes, or Red Hat OpenShift.
+- Excellent problem-solving and debugging skills.
+- Strong communication and collaboration skills.
+- Ability to work independently and as part of a team.
+- Proficient written and verbal communication skills in English.
+
+**Preferred:**
+
+- Knowledge of AI frameworks (e.g., TensorFlow, PyTorch).
+- Background in DevOps or site reliability engineering (SRE).
+- Experience with performance analysis tools.
+- Experience with Linux kernel development.
+
+### **Benefits**
+
+- Salary range: \$127,890.00 - \$211,180.00.
+- Comprehensive medical, dental, and vision coverage.
+- Flexible Spending Account - healthcare and dependent care.
+- Health Savings Account - high deductible medical plan.
+- Retirement 401(k) with employer match.
+- Paid time off and holidays.
+- Paid parental leave plans for all new parents.
+- Leave benefits including disability, paid family medical leave, and paid military leave.
+- Additional benefits including employee stock purchase plan, family planning reimbursement, tuition reimbursement, transportation expense account, employee assistance program, and more!"
+73,"### **Summary**
+
+Synopsys is seeking a Senior Full Stack Cloud & AI Software Engineer to join their team in Irvine, CA. The role involves architecting, developing, and deploying innovative cloud solutions and generative AI models for both commercial and government cloud environments.
+
+### **About the Role**
+
+As a Senior Full Stack Cloud & AI Software Engineer, you will be responsible for:
+- Architecting, developing, and deploying innovative cloud solutions in government and commercial public cloud providers (Azure, AWS, GCP).
+- Building fullstack solutions with microservices architecture for both commercial and government cloud.
+- Developing and implementing cutting-edge generative AI models to solve complex problems and drive innovation across the organization.
+- Developing and maintaining AI pipelines, including data preprocessing, feature extraction, model training, and evaluation.
+- Developing Linux system level tools for storage optimization, data transfer, etc.
+- Programming and developing high-quality unit testing, integration testing, and end-to-end testing modules.
+- Understanding and implementing quality standards and software development life cycle processes.
+- Developing DevOps tools and processes for the automated CI/CD pipelines for developer, QA, and production environments.
+
+### **About You**
+
+**Required:**
+
+- 12+ years of experience in building and deploying solutions on public cloud infrastructure on Azure and/or other Cloud providers.
+- Proficiency in programming and experience in patterns such as object-oriented & functional programming.
+- Solid experience developing and implementing generative AI models, with a strong understanding of deep learning techniques such as GPT, VAE, and GANs.
+- Proficiency in Python and experience with machine learning libraries and frameworks such as TensorFlow, PyTorch, or Keras.
+- Experience with natural language processing (NLP) techniques and tools, such as Hugging Face.
+- Experience with REST API; Understanding of OpenAPI/Swagger.
+- JavaScript or TypeScript development experience; High availability solutions using NodeJS and REST Middleware.
+- Experience in developing UI with Angular/React frameworks.
+- Experience in developing high-quality unit testing, integration testing, and end-to-end testing modules.
+- Hands-on experience in configuring, deploying, managing, and monitoring applications on Azure, AWS, and GCP, especially for Government projects.
+- Good working knowledge and background in Cloud deployments, Containerization, Microservices Architectures, and Kubernetes.
+- Hands-on experience in Linux system level programming, deep understanding of Linux operating system internals.
+- Good understanding of network protocols such as TCP, Storage protocols such as NFS.
+- Hands-on experience using cloud native DevOps tools and processes in creating automated CI/CD pipelines.
+
+**Preferred:**
+
+- Cloud certifications: Azure preferred, AWS, GCP.
+
+### **Benefits**
+
+- Competitive salary and benefits package, which will be discussed during the interview process."
+74,"### **Summary**
+
+Chewy is seeking an Associate Director, Software Engineering - Sponsored ADS to join their team in Bellevue, WA. The role involves leading the Sponsored Advertising team to influence technical strategy and drive business impact through innovative advertising solutions.
+
+### **About the Role**
+
+As an Associate Director, you will be responsible for managing the roadmap of large-scale distributed systems, leading a team of engineers, and collaborating with product management to prioritize engineering investments. Your daily tasks will include defining ad supply initiatives, assessing campaign performance, mentoring engineers, and driving innovation through rapid prototyping. You will also work closely with machine learning engineers to implement advanced advertising functionalities.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Computer Science, or related field, or equivalent experience.
+- 10+ years of experience in Software Development as a software engineer.
+- 5+ years of experience in Engineering Management.
+- Exceptional leadership and communication skills.
+- Strong fundamentals on building and scaling cloud-based solutions (AWS).
+- Proficiency in designing scalable, distributed, low latency and high throughput systems.
+- Ability to identify and manage priorities within the context of overall Advertising business objectives based on data-driven decision making.
+
+**Preferred:**
+
+- Master's or PhD in Computer Science or related field.
+- Experience working with display ads systems.
+- Understanding of machine learning and applied science.
+- Experience and domain expertise in digital advertising or marketing technologies or eCommerce/Retail technology stack.
+- Demonstrated experience taking a project from inception through launch.
+
+### **Benefits**
+
+- Salary range of \$156k–\$255k.
+- Eligibility for 401k, and a new hire and annual equity grant.
+- Various insurance options including medical/Rx, vision, dental, life, disability, and more.
+- Parental leave, family services benefits, backup dependent care, and flexible spending accounts.
+- Unlimited PTO for salaried-exempt team members, subject to manager approval.
+- Six paid holidays per year and potential eligibility for paid sick and family leave."
+75,"### **Summary**
+
+Workplace from Facebook is hiring a Software Engineer, Audio for the Reality Labs team in Charleston, SC. The role involves developing innovative hardware and software solutions that redefine how people interact with virtual and augmented environments.
+
+### **About the Role**
+
+As a Software Engineer, Audio, you will be responsible for analyzing, designing, developing, and debugging real-time AR and VR audio algorithms. You will collaborate with a team across multiple scientific and engineering disciplines, develop software for various consumer devices including AR and VR headsets, write clean and efficient code, and embrace the challenges of AR/VR problem-solving.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+- 5 or more years of C++ experience, including use of C++11 features.
+- 2 or more years of experience creating audio software for games or other real-time environments.
+- Proven track record of software development experience, including shipping one or more products.
+- Problem solving and optimization experience.
+- Communication experience and demonstrated experience working across disciplines to drive optimal solutions.
+- Experience with web and hardware-accelerated audio rendering APIs.
+- Experience with troubleshooting hardware/software interactions.
+
+**Preferred:**
+
+- Experience with one or more game audio engines and middleware: Wwise, FMOD, Unity and/or Unreal.
+- 5 or more years of experience creating audio software for games or other real-time environments.
+- Background in DSP, audio, acoustics, psychoacoustics, virtual/augmented reality.
+
+### **Benefits**
+
+- Public Compensation: \$70.67/hour to \$208k/year + bonus + equity + benefits."
+76,"### **Summary**
+
+Juniper Networks is seeking a Highly Skilled Network Engineer to join their team in Sunnyvale, CA. The role involves leading the design and development of their next-generation stateless packet firewall (AFT) and working on software components for their router systems.
+
+### **About the Role**
+
+As a Highly Skilled Network Engineer, you will be responsible for designing, developing, and testing software components for ZX, BT, BX based fix form factor or chassis system routers. Your daily tasks will include ensuring high-quality code and optimal performance for the AFT solution, collaborating with cross-functional teams to integrate software components, and conducting thorough testing and quality assurance of developed software.
+
+### **About You**
+
+**Required:**
+
+- No specific qualifications mentioned.
+
+**Preferred:**
+
+- No specific qualifications mentioned.
+
+### **Benefits**
+
+- A competitive salary and bonus structure.
+- A comprehensive benefits package, including medical, dental, and vision coverage.
+- Ongoing training and professional development opportunities."
+77,"### **Summary**
+
+Autonomous Solutions is seeking an Embedded Software Engineer to join their team in Peter, UT. The role involves participating in the entire software development life cycle for embedded software operating on unmanned robotic vehicles.
+
+### **About the Role**
+
+As an Embedded Software Engineer, you will be responsible for requirements development, design, implementation, testing, and support of embedded applications. Your duties will include feature development, diagnosis and correction of defects, participation in systems engineering for software integration, and support of fielded systems. You will also adhere to software practices such as writing understandable C and C++ code, continuous refactoring, and following design patterns and SOLID principles.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Electrical Engineering, Computer Science, Computer Engineering, or related.
+- At least 5-7 years of professional experience designing and implementing embedded, real-time software systems using C/C++ for embedded processors.
+- Familiarity with large multithreaded embedded applications, running on an RTOS.
+- Familiarity with electrical and mechanical systems.
+- Ability to work in an open and collaborative team environment.
+- Strong interpersonal and communication skills.
+- Must be authorized to work in the U.S.
+
+**Preferred:**
+
+- Experience with unit testing, integration testing, and system simulation.
+- Knowledge of distributed version control systems.
+
+### **Benefits**
+
+- Commitment to a family-friendly work environment with a strong work/personal life balance.
+- Comprehensive compensation plan, culture, benefits, and work environment."
+78,"### **Summary**
+
+Capital One is seeking a Senior Software Engineer to join their team in Bloomington, IL. The role involves designing, developing, and deploying cloud-based solutions using Golang, Java, and Angular.
+
+### **About the Role**
+
+As a Senior Software Engineer at Capital One, you will be responsible for collaborating with Agile teams to drive the development of full-stack applications. Your daily tasks will include designing and implementing cloud-based solutions, developing and deploying applications, and utilizing container orchestration services such as Docker and Kubernetes.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Computer Science or related field.
+- At least 3 years of experience in software engineering.
+- Strong expertise in Golang, Java, and Angular.
+- Proficiency in container orchestration services and AWS tools.
+- Excellent collaboration and communication skills.
+
+**Preferred:**
+
+- Experience collaborating with talented professionals from diverse backgrounds and industries.
+- Ability to stay at the forefront of technological advancements and innovations.
+
+### **Benefits**
+
+- Competitive salary and performance-based incentives.
+- Comprehensive health insurance and retirement plans.
+- Flexible work arrangements and professional development opportunities.
+- Access to cutting-edge technology and training resources."
+79,"### **Summary**
+
+Nabors Industries is seeking a Robotics and Automation Software Engineer for their Early Career Development Program based in Houston, TX. The role involves developing techniques to automate drilling equipment and enhancing the efficiency of drilling processes.
+
+### **About the Role**
+
+As a Robotics and Automation Software Engineer, you will be responsible for:
+- Developing techniques to automate drilling equipment to improve safety and efficiency.
+- Playing a pivotal role in developing, implementing, and maintaining a digital twin system to streamline quality control processes.
+- Participating in the Nabors Early Career Development Program (ECD) to fast track your career through rotational opportunities in key areas of digital technology.
+
+### **About You**
+
+**Required:**
+
+- Full-time position as a Robotics and Automation Software Engineer in Digital Technology.
+
+**Preferred:**
+
+- Not provided.
+
+### **Benefits**
+
+- Access to advance your knowledge and skills in high-profile roles within the ACE (Actively Changing Energy) program.
+- Rotational opportunities in key areas of digital technology during the initial 12-18 months of employment to aid in knowledge and career development."
+80,"### **Summary**
+
+Brado is seeking a Production-Grade AI System Engineer to join their team in Dallas, TX. The role involves designing and developing a conversational engagement platform leveraging advanced AI capabilities and modern cloud infrastructure.
+
+### **About the Role**
+
+As a Production-Grade AI System Engineer, you will be responsible for bridging the gap between cutting-edge AI capabilities and production-grade, safety-focused AI systems at scale. Your daily tasks will include managing the full development lifecycle, including testing, deployment, and monitoring to ensure reliability and scalability.
+
+### **About You**
+
+**Required:**
+
+- Strong background in software engineering, with a focus on scalable, production-grade systems.
+- Expertise in Python, API design, cloud infrastructure, database management, containerization, and AI tools and stacks.
+
+**Preferred:**
+
+- Experience working collaboratively with scientists, engineers, product managers, and internal stakeholders to identify and solve problems efficiently.
+- Passion for delivering high-quality standards through rigorous testing, best practices, and thorough documentation.
+
+### **Benefits**
+
+- Comprehensive benefits package, including health care plan, retirement plan, life insurance, paid time off, family leave, short-term and long-term disability, training and development opportunities, and the option to work from home."
+81,"### **Summary**
+
+Honeybee Robotics is seeking a Software Systems Architect for Robotics to join their team in Altadena, CA. The role involves supporting the development of robotics and measurement software systems, leading testing and validation efforts, and managing software field deployments.
+
+### **About the Role**
+
+As a Software Systems Architect for Robotics, you will be responsible for developing and maintaining robotic control and measurement software systems for PCs and embedded systems. Your daily tasks will include leading testing and validation of robotics software, managing software field deployments, deriving software system requirements, and interfacing with various teams to drive new product development programs.
+
+### **About You**
+
+**Required:**
+
+- A Bachelor's degree in Computer Science, Robotics, Computer Engineering, Electrical Engineering, or equivalent.
+- 5+ years of experience (or 3+ with Master's) in software development for either PC or embedded targets.
+- Extensive knowledge of C/C++ development.
+- Experience testing frameworks and unit testing.
+- Experience with Git version control system.
+- Experience reading circuit diagrams and performing basic debugging.
+- Experience designing effective software architectures for critical high-reliability systems.
+- Capability to write maintainable and responsive multithreaded and multi-process applications.
+- Knowledge of digital communication systems (ethernet, USB, async, serial, CAN, SPI, I2C).
+- Experience with space flight avionics or ground system software, particularly on planetary exploration missions.
+- Knowledge of automated software tests and continuous integration systems.
+
+**Preferred:**
+
+- Experience with using ROS for robotic systems (movement, path planning).
+- Experience with MoveIt motion planning framework.
+- Experience with ROS2 Control framework.
+- Python scripting experience.
+- GUI development experience (Qt experience preferred).
+- Experience writing code for BLDC motors.
+- Knowledge of robotics motion systems (e.g., manipulator kinematics and dynamics).
+
+### **Benefits**
+
+- Competitive salary range based on qualifications.
+- Comprehensive benefits package including medical, dental, vision, life insurance, and disability coverage.
+- 401(k) plan with immediate vesting and company match, paid time off, and parental leave."
+82,"### **Summary**
+
+Apple is seeking a Software Engineer for 3D Applications to join their team in Brentwood, CA. The role involves researching and developing applications for the Apple Vision Pro, a revolutionary spatial computer.
+
+### **About the Role**
+
+As a Software Engineer for 3D Applications, you will be part of a dynamic and creative team exploring a new application paradigm. Your responsibilities will include rapid experimentation and prototyping while maintaining code quality and attention to detail. You will work with advanced technologies in spatial computing and augmented reality (AR) to build graphically intense and highly interactive applications.
+
+### **About You**
+
+**Required:**
+
+- Typically requires a minimum of 6 years of related experience.
+- Proficient in one or more of the following languages: C/C++, Objective-C, Swift.
+- Proficiency in macOS, iOS, tvOS, or watchOS development.
+- Experience with low-level graphics APIs (Metal, OpenGL, DirectX).
+- Fundamental knowledge of software engineering technologies, methodologies, and practices.
+- Familiarity with 3D math, linear algebra, 3D geometry, graphics, and rendering.
+
+**Preferred:**
+
+- Experience developing AR/VR applications.
+- Familiarity with ARKit.
+- Experience using iOS frameworks like UIKit, AVFoundation, Core Motion, Core ML, CloudKit, SiriKit, StoreKit, etc.
+- Experience with Unix development, daemons, cross-process communication, etc.
+- Interest or proficiency in UI/UX design.
+
+### **Benefits**
+
+- Base pay range for this role is between \$143k and \$214k, depending on skills, qualifications, experience, and location.
+- Opportunity to become an Apple shareholder through participation in discretionary employee stock programs.
+- Eligibility for discretionary restricted stock unit awards and discounts on Apple stock.
+- Comprehensive medical and dental coverage, retirement benefits, and reimbursement for certain educational expenses.
+- Additional eligibility for discretionary bonuses or commission payments as well as relocation assistance."
+83,"### **Summary**
+
+CMCI is seeking a Mobile Application Software Engineer to join their team in Ashburn, VA. The role involves architecting, designing, building, delivering, and enhancing highly available, scalable, real-time systems.
+
+### **About the Role**
+
+As a Mobile Application Software Engineer, you will work collaboratively to determine and recommend the best designs based on customer business objectives, timelines, and resource constraints. You will participate in and/or direct major deliverables of projects through all aspects of the software development lifecycle.
+
+### **About You**
+
+**Required:**
+
+- Expertise in Mobile App Development, particularly with Android and iOS platforms.
+
+**Preferred:**
+
+- No additional qualifications mentioned.
+
+### **Benefits**
+
+- No benefits mentioned."
+84,"### **Summary**
+
+Citizens is seeking a Full Stack Software Engineer II for their Generative AI Platforms team in Irving, TX. The role involves building scalable enterprise platforms aligned with technology strategy and supporting various business use cases.
+
+### **About the Role**
+
+As a Full Stack Software Engineer II, you will be responsible for developing and maintaining secure and scalable platforms and applications that enhance customer experience through Generative AI technologies. Your key contributions will include building GenAI services and systems, developing API-driven micro-services, optimizing AI/ML algorithms, and ensuring the reliability and security of backend distributed systems.
+
+### **About You**
+
+**Required:**
+
+- 3+ years in Python, Java, or equivalent programming languages.
+- 2+ years on cloud providers such as Azure/GCP/AWS.
+- 2+ years of experience building ML services & platforms, feature generation, and feature transformations.
+- Familiarity with AI/ML frameworks such as PyTorch/TensorFlow.
+- Experience building services using FASTAPI/Flask/Django.
+- 2+ years' experience working with backend data systems like Snowflake and Kafka, building data pipelines, and preparing datasets.
+- Experience with DevSecOps flows leveraging technologies such as Git, Jenkins, Docker, Kubernetes, EKS, and AKS.
+- 2 years of experience writing production code for both frontend and backend of web applications.
+- 3 years of experience in IT, preferably at least 1 year in cloud.
+- Bachelor's Degree or equivalent combination of education, training, and experience.
+
+**Preferred:**
+
+- Certifications by cloud providers.
+
+### **Benefits**
+
+- Salary range: \$100k–\$140k per year plus an opportunity for an annual discretionary bonus.
+- Comprehensive medical, dental, and vision coverage.
+- Retirement benefits, maternity/paternity leave, flexible work arrangements, education reimbursement, and wellness programs.
+- Paid time off policy exceeds mandatory requirements."
+85,"### **Summary**
+
+SnapIT Solutions is seeking a Senior Data Software Engineer to join their team in Kansas City, MO. The role involves collaborating with federal government customers to deliver exceptional user experiences through React frontend development.
+
+### **About the Role**
+
+As a Senior Data Software Engineer, you will be responsible for collaborating with UX and graphic designers, partnering with product owners, analyzing business and technical requirements, developing web-based applications, maintaining unit and automation tests, conducting peer code reviews, and providing technical mentorship to junior developers. You will also be expected to keep up-to-date with emerging technologies and provide on-call support.
+
+### **About You**
+
+**Required:**
+
+- 6+ years of relevant experience in software engineering.
+- Bachelor’s degree in STEM (Science, Technology, Engineering, Mathematics) or equivalent experience.
+- Strong understanding of frontend development with JavaScript, TypeScript, CSS, and HTML.
+- Proficiency in React.js and a commitment to delivering exceptional user experiences.
+- Experience with AWS services and security best practices.
+- Excellent debugging skills and ability to work independently under tight deadlines.
+- Ability to mentor junior staff and collaborate effectively with cross-functional teams.
+
+**Preferred:**
+
+- Experience with lit programming and creating reusable components for design systems.
+- Proficiency in multiple programming languages (e.g., Java, Python, JavaScript).
+- Expertise in cloud platforms such as AWS, Azure, or Google Cloud.
+- Familiarity with centralized application observability and monitoring tools.
+
+### **Benefits**
+
+- Pay: \$130,000.00 - \$150,000.00 per year.
+- 401(k) and 401(k) matching.
+- Dental insurance.
+- Health insurance.
+- Paid time off.
+- Vision insurance."
+86,"### **Summary**
+
+TikTok is seeking a Software Engineer, ML System Architecture to join their team in Seattle, WA. The role involves designing and developing machine learning infrastructure for large-scale systems.
+
+### **About the Role**
+
+As a Software Engineer, ML System Architecture, you will be responsible for:
+- Designing and developing machine learning infrastructure for LLM/AIGC.
+- Building a large machine learning system integrating GPUs, RDMA networking, and high-performance storage.
+- Solving technical problems related to system stability and availability.
+- Organizing and coordinating multiple teams to complete system construction, including data center, network, computing, storage, and resource teams.
+- Collaborating with a global team across the United States, China, and Singapore.
+
+### **About You**
+
+**Required:**
+
+- Proficiency in 1 to 2 programming languages such as C++/Go/Python/Shell in a Linux environment.
+- Understanding of distributed systems principles with experience in design, development, and maintenance of large-scale machine learning systems.
+- Familiarity with Kubernetes architecture and experience in system-level development and tuning.
+- Excellent logical analysis ability to abstract and split business logic.
+- Strong sense of responsibility, good learning ability, communication skills, and self-drive.
+
+**Preferred:**
+
+- Familiarity with ML infrastructure for large model training and inference.
+- Experience in AI infrastructure, HW/SW co-design, high-performance computing, or ML hardware architecture (GPU, accelerators, networking).
+
+### **Benefits**
+
+- Base salary range of \$137k–\$237k annually.
+- Day one access to medical, dental, and vision insurance.
+- 401(k) savings plan with company match.
+- Paid parental leave, short-term and long-term disability coverage, and life insurance.
+- 10 paid holidays, 10 paid sick days, and 17 days of paid personal time (prorated upon hire with increasing accruals by tenure)."
+87,"### **Summary**
+
+U.S. Bank is seeking a Java/Spring Framework Engineer to join their team in Hopkins, MN. The role involves developing and maintaining technology solutions that support the bank's anti-money laundering and sanctions compliance initiatives.
+
+### **About the Role**
+
+As a Java/Spring Framework Engineer, you will be responsible for analyzing and designing software solutions, developing high-quality software using Agile methodologies, collaborating with cross-functional teams, ensuring compliance with security and regulatory requirements, and staying up-to-date with emerging technologies and best practices.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Computer Science or related field.
+- 5+ years of experience in software development using Java/Spring Framework and web-based services.
+- Experience with testing frameworks such as Cucumber, Selenium, and Postman.
+- Strong communication and collaboration skills.
+- Familiarity with DevOps tools such as Git, GitHub, Jenkins, and Kubernetes.
+
+**Preferred:**
+
+Not provided
+
+### **Benefits**
+
+- Salary Range: \$120,000 - \$180,000 per year."
+88,"### **Summary**
+
+Oracle is seeking a Principal Software Engineer - Distributed Systems to join their team in Honolulu, HI. The role involves designing and building high-scale, cloud-based data processing systems for a premier health data platform.
+
+### **About the Role**
+
+As a Principal Software Engineer, you will be responsible for accelerating architectural efforts to improve data processing latency, creating comprehensive patient health records, and building a health data lake at massive scale. You will work closely with software engineering teams to provide technical leadership, participate in the entire software lifecycle, and optimize data processing pipelines.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's Degree required.
+- Significant experience with distributed systems implementing SaaS/IaaS.
+- Experience with modern programming languages such as Java, C#, C++ or Go.
+- Deep expertise in technologies and design concepts around Big Data processing, Analytics, relational databases, unstructured storage, Hadoop or similar parallel compute technologies, stream processing, etc.
+- Demonstrated competence as a technical lead of a non-trivial SaaS/IaaS project spanning multiple functional areas, involving up to 10 engineers.
+- Demonstrated competence in taking ambiguous functional and/or product requirements and partitioning them based on functional alignment.
+- Experience with working with technical partners to translate ambiguous requirements into actionable technical requirements and per-component designs.
+- Experience with owning all aspects of the development, characterization and deployment of features spanning multiple components.
+- 8+ years of relevant experience.
+- Public Cloud SaaS, PaaS Services and/or related technology experience, Cloud Engineering Infrastructure Development.
+
+**Preferred:**
+
+- Experience with partnering with managers and other stakeholders to define the technical culture and processes of SW engineering teams.
+- Experience with mentoring and growing junior engineers.
+
+### **Benefits**
+
+- Highly competitive suite of employee benefits designed on the principles of parity and consistency.
+- Flexible medical, life insurance, and retirement options.
+- Encouragement for employees to give back to their communities through volunteer programs."
+89,"### **Summary**
+
+Circle is seeking a Manager, Software Engineering to join their team in Chicago, IL. The role involves leading dynamic engineering teams, providing technical direction, and ensuring alignment with company objectives in the financial technology sector.
+
+### **About the Role**
+
+As a Manager, Software Engineering, you will be responsible for running day-to-day activities of engineering teams, designing and maintaining APIs and systems, providing architectural direction, leading agile processes, managing team performance, and coordinating with cross-functional teams. You will also act as an ambassador for the engineering team and manage technical debt to maintain development velocity.
+
+### **About You**
+
+**Required:**
+
+- 3 or more years of experience with technical leadership.
+- 7 or more years of experience with software engineering.
+- 3 or more years experience coding in one of the following languages: Go, Java, and/or Javascript.
+- Hands-on technical manager experienced in designing, building, and deploying secure, scalable products and services.
+- Experience managing remote teams.
+- Ability to thrive in a fast-paced environment with a high level of autonomy and responsibilities.
+
+**Preferred:**
+
+- Passion for coaching and building leaders within and outside of your team.
+- Strong cross-functional collaboration skills and ability to make rigorous decisions and tradeoffs.
+
+### **Benefits**
+
+- Competitive compensation with a base pay range of \$182.5k–\$240k.
+- Flexible and diverse work environment that encourages new ideas and stakeholder involvement."
+90,"### **Summary**
+
+Apple is seeking a Principal Software Engineer, Source Control Systems Architect to join their team in Cupertino, CA. The role involves designing, implementing, and managing source control systems to enhance the software development lifecycle.
+
+### **About the Role**
+
+As a Principal Software Engineer, you will be responsible for developing and maintaining the architecture of source control systems, leading the integration of various tools with CI/CD pipelines, implementing security best practices, optimizing performance, and overseeing migration projects from legacy systems to modern platforms.
+
+### **About You**
+
+**Required:**
+
+- 10+ years of software development experience.
+- Experience in systems architecture and development with a focus on source control systems.
+- Familiarity with cloud technologies (AWS, Azure, GCP) for hosting source control solutions.
+- Knowledge of containerization and orchestration tools like Docker and Kubernetes.
+- Programming skills in scripting or programming languages like Python, Java, Go.
+
+**Preferred:**
+
+- Fast learner with good problem solving and analytical skills.
+- Ability to work well in a team and be productive under aggressive schedules.
+- Excellent communications skills, self-motivated and well organized.
+
+### **Benefits**
+
+- No benefits listed."
+91,"### **Summary**
+
+Meta is seeking a Software Engineer, Systems ML - SW/HW Co-design to join their team in Des Moines, IA. The role involves applying AI infrastructure and hardware acceleration techniques to optimize intelligent ML systems that enhance Meta’s products and experiences.
+
+### **About the Role**
+
+As a Software Engineer, Systems ML - SW/HW Co-design, you will be responsible for solving crucial problems on the web by applying your skills in AI infrastructure. Your daily tasks will include setting project goals, conducting data-driven analysis, driving large efforts across multiple teams, defining use cases, and mentoring other engineers and research scientists.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+- Specialized experience in one or more of the following machine learning/deep learning domains: Hardware accelerators architecture, GPU architecture, machine learning compilers, or ML systems, AI infrastructure, high performance computing, performance optimizations, or Machine learning frameworks (e.g. PyTorch), numerics and SW/HW co-design.
+- Experience developing AI-System infrastructure or AI algorithms in C/C++ or Python.
+- Degree must be completed prior to joining Meta.
+
+**Preferred:**
+
+- Master/PhD degree in Computer Science, Computer Engineering.
+- Experience with distributed systems or on-device algorithm development.
+- Experience with recommendation and ranking models.
+- Experience collaborating with other teams in a fast-paced environment.
+
+### **Benefits**
+
+- \$56.25/hour to \$173k/year + bonus + equity + benefits."
+92,"### **Summary**
+
+Splunk is seeking a Sr Software Engineer (Back-end), Observability to join their team in Virginia. The role involves designing and developing large-scale distributed systems and tools to enhance observability for their customers.
+
+### **About the Role**
+
+As a Sr Software Engineer, you will work within a multi-functional team to implement and design systems that empower customers to detect and resolve infrastructure and application issues. Your responsibilities will include leading the design and development of major customer-facing features, collaborating with product owners and designers, mentoring junior engineers, and participating in operational duties to ensure stable service delivery.
+
+### **About You**
+
+**Required:**
+
+- BS EE or CS degree, or equivalent training or work experience with 8+ years related experience (or Masters and 6+ years related experience or PhD and 3+ years experience).
+- Experience building and designing complex large-scale backend systems.
+- Experience with DevOps practices and comfortability operating your own systems.
+- Strong communication skills, both verbal and written.
+- Leadership and mentoring skills and the ability to work with engineers and non-engineers of various skill levels.
+- Proficiency in any modern languages like Go (Preferred), Python, Java, or similar.
+- Experience developing cloud native applications in Kubernetes, Openshift, or server clusters in distributed environments in AWS, GCP clouds, or on-prem clusters.
+- Experience working with cloud native technologies/frameworks like gRPC, REST, Websockets.
+- Familiarity with Observability concepts and ecosystems such as OpenTelemetry, Prometheus, Grafana, etc.
+- Experience with relational and non-relational databases.
+
+**Preferred:**
+
+- None specified.
+
+### **Benefits**
+
+- Base Pay Range: \$139k–\$240k per year, depending on location and experience.
+- Flexibility and choice in working arrangements, including remote and/or in-office roles.
+- Eligibility for incentive compensation and potential equity or long-term cash awards.
+- Competitive benefits package including medical, dental, vision, a 401(k) plan and match, paid time off, and more."
+93,"### **Summary**
+
+SynergisticIT is seeking a Software Engineer - Data Analytics to join their team in Dallas, TX. The role involves designing and developing software applications that analyze and interpret complex data sets.
+
+### **About the Role**
+
+As a Software Engineer - Data Analytics, you will be responsible for designing and developing software applications that analyze and interpret complex data sets. You will work closely with our clients to understand their needs and develop solutions that meet their requirements.
+
+### **About You**
+
+**Required:**
+
+- Bachelor's degree or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or IT.
+- Experience in programming languages such as Java, Python, and C++.
+- Knowledge of machine learning algorithms, data visualization tools, and cloud computing platforms.
+
+**Preferred:**
+
+Not provided.
+
+### **Benefits**
+
+- Salary: \$90,000 - \$130,000 per year, depending on experience.
+- Competitive salary and benefits package, including access to training and development opportunities.
+- Comprehensive benefits package, including health insurance, retirement savings plan, and paid time off.
+- Opportunities for professional growth and development through training and education programs."
+94,"### **Summary**
+
+Ironclad is seeking a Staff Software Engineer - AI Incubation to join their team in San Francisco, CA. The role involves working cross-functionally to identify business problems and architect, build, and verify solutions for their contract lifecycle management platform.
+
+### **About the Role**
+
+As a Staff Software Engineer at Ironclad on the AI Incubation team, you will collaborate with product managers, designers, and other engineers to spec, design, and build features and systems. Your responsibilities will include partnering with quality engineers to define and maintain testing strategies, leading technical discussions, mentoring team members, and designing data-intensive solutions to help Ironclad scale.
+
+### **About You**
+
+**Required:**
+
+- At least 5+ years of software experience architecting, building, launching, and maintaining complex systems (a formal degree is not required, prioritizing industry experience).
+- Leadership across teams and a drive towards improving overall technical architecture and achieving company-wide goals.
+- Passion for software engineering to build and ship great products.
+- Hands-on experience shipping valuable products to production with real user feedback.
+- A high bar for quality.
+- Strong cross-team communication and collaboration skills.
+- Strong software engineering fundamentals: modularity, abstraction, data structures, and algorithms.
+
+**Preferred:**
+
+- Optional experience in taking products from 0 to 1.
+- Optional experience in building products powered by GenAI or ML.
+- Optional experience in prompt engineering.
+- Ironclad’s Values: drive, intent, integrity, and empathy.
+
+### **Benefits**
+
+- Health, dental, and vision insurance.
+- 401k.
+- Wellness reimbursement.
+- Take what you need vacation policy.
+- Generous parental leave for both primary and secondary caregivers.
+- Base Salary Range: \$190k–\$210k for Staff Software Engineer; \$215k–\$240k for Senior Staff Software Engineer."
+95,"### **Summary**
+
+Netflix is seeking a Software Engineer L4/L5 for their Model Serving Systems within the Machine Learning Platform team in Los Gatos, CA. The role focuses on developing scalable systems for machine learning model computation and serving.
+
+### **About the Role**
+
+As a Software Engineer, you will be part of the Consumer ML Model Compute & Serving Systems team, responsible for building the infrastructure required to run ML models at scale. You will collaborate with engineers, product management, and data teams to enhance Netflix’s ML/AI initiatives. Your work will significantly impact the consumer experience by optimizing model serving and computation.
+
+### **About You**
+
+**Required:**
+
+- Experience building high-traffic distributed systems and ML infrastructure.
+- Experience supporting large-scale ML models with a direct impact on customer experience.
+- Proficiency in an object-oriented programming language, with a requirement to learn and code in Java.
+- Strong DevOps experience, including performance tuning, managing deployments, and capacity planning.
+- Experience with public cloud services like AWS, Azure, or GCP.
+- Proactive communication skills and a strong bias towards action.
+- BS/MS in Computer Science, Applied Math, Engineering, or a related field.
+
+**Preferred:**
+
+- Curiosity about discovering new and better ways to solve problems.
+- Self-driven and motivated to deliver high-quality, well-tested code.
+- Excitement to work in a multidisciplinary environment.
+- Comfort in a majority-remote team setting.
+
+### **Benefits**
+
+- Annual salary compensation structure with no bonuses; salary range is \$100k–\$464k.
+- Choice each year between salary and stock options.
+- Comprehensive benefits including health plans, mental health support, 401(k) with employer match, stock options, and paid leave.
+- Full-time hourly employees accrue 35 days annually for paid time off; salaried employees receive flexible time off."
+96,"### **Summary**
+
+Lockheed Martin is seeking a Software Engineer (DevSecOps) to join their team in Orlando, FL. The role involves designing, developing, and implementing CI/CD pipelines for MFC programs using DevSecOps methodologies and technologies.
+
+### **About the Role**
+
+As a Software Engineer, your responsibilities will include but are not limited to:
+- Design, develop, and implement CI/CD pipelines for MFC programs using DevSecOps methodologies and technologies.
+- Collaborate with cross-functional teams to ensure seamless integration of CI/CD pipelines with existing development workflows.
+- Ensure compliance with security best practices and regulatory requirements throughout the software development lifecycle.
+
+### **About You**
+
+**Required:**
+
+- Ability to obtain a secret security clearance. Must be a US Citizen.
+- Proven experience with DevSecOps methodologies and technologies.
+- Proven experience implementing and configuring CI/CD software development pipelines using GitLab CI.
+- Proven experience of Python programming language and YAML/JSON data formats.
+- Proven experience with container management software, including Docker, Kubernetes, or OpenShift.
+
+**Preferred:**
+
+- Experience in C/C++ multi-threaded development for embedded systems.
+- Proficiency in C# programming language.
+- Experience with Linux operating systems and scripting languages.
+- Familiarity with Agile Software Development methodologies and practices.
+- Experience with Azure Cloud Infrastructure.
+- Experience with Infrastructure as Code (IaC) tools, such as Terraform or Ansible.
+- Familiarity with Nexus repository management and artifact management.
+- Experience with Windows operating systems and Web App Development using Javascript/Typescript.
+- Familiarity with Secure Software Supply Chain.
+
+### **Benefits**
+
+- Flexible work schedules to comprehensive benefits investing in your future and security.
+- Schedules range from standard 40 hours over a five-day work week while others may be condensed.
+- These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.
+- Relocation Available: Possible."
+97,"### **Summary**
+
+Benjamin Moore is seeking a Chief Software Architect to join their team in Montvale, NJ. The role involves designing and developing software solutions using cutting-edge technologies.
+
+### **About the Role**
+
+As a Chief Software Architect, you will be responsible for designing and developing software solutions to meet business requirements, collaborating with cross-functional teams to deliver high-quality products, and maintaining and improving existing software systems.
+
+### **About You**
+
+**Required:**
+
+- A bachelor's degree in engineering or a related field.
+- No less than 5 years of experience in software development.
+- Expertise in C#, WPF, and SQLite/SQL Server.
+
+### **Benefits**
+
+- At BENJAMIN MOORE, we offer a dynamic work environment and competitive compensation package to our employees."
+98,"### **Summary**
+
+RTX is seeking a Principal Java/C++ Software Engineer to join their team in Fort Wayne, IN. The role involves designing, developing, testing, delivering, and maintaining software for cutting-edge defense programs.
+
+### **About the Role**
+
+As a Principal Java/C++ Software Engineer, you will be responsible for collaborating with talented teams of engineers, architects, and leaders in an Agile environment. Your daily tasks will include functional analysis of real-world and test data, and collaboration with customers to bring new capabilities to the warfighter. You will work onsite in Fort Wayne, IN as part of the Software Development Team.
+
+### **About You**
+
+**Required:**
+
+- Typically requires a Bachelor's degree in Science, Technology, Engineering or Mathematics (STEM) and 8 years of relevant software engineering experience.
+- Experience developing software using Java and/or C++.
+- Active and transferable U.S. government issued security clearance is required prior to start date.
+- U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+
+**Preferred:**
+
+- Experience developing software using Realtime Java Environments.
+- Experience with C++ and Java Unit Test Frameworks.
+- Software development lifecycle experience using an Agile methodology.
+- Experience with Atlassian, Test Automation, DevSecOps, and CI/CD processes.
+- Experience with tools such as Confluence, VS Code, Jira, Jenkins, and Junit.
+- Experience in system design, development, integration/verification, production, and sustainment.
+- Experience across the product development life cycle.
+- Excellent communications skills, verbal and written, with technical, customer and leadership audiences.
+- Self-motivated.
+- Proven ability and desire to facilitate career growth and knowledge transfer.
+- Proven ability to develop technical solutions to complex issues.
+- Familiarity with DOORS, and MS Office.
+
+### **Benefits**
+
+- Total rewards package that includes compensation, healthcare, wellness, retirement, and work/life benefits; career development and recognition programs.
+- Benefits include parental (including paternal) leave, flexible work schedules, achievement awards, educational assistance, and child/adult backup care.
+- Salary range: \$96k–\$200k."
+99,"### **Summary**
+
+Amazon is seeking an Embedded Software Development Engineer, DeviceOS Software to join their team in Austin, TX. The role involves system architecture and development of new features for embedded systems across multiple product and technology spaces.
+
+### **About the Role**
+
+As an Embedded Software Development Engineer, you will be responsible for:
+- System architecture and development of new features for embedded systems across multiple product and technology spaces (Alexa devices, IoT devices, etc.).
+- Joining a team whose mission is to support state-of-the-art technologies via flexible software architectures, OS and Hardware Platform abstraction, testability, and scalability across multiple device types.
+- Diving into ambiguous problem spaces and meticulously distilling design choices, trade-offs, and priorities.
+- Investigating, prototyping, and delivering new and innovative system solutions, participating in design reviews, API development, and documentation.
+- Sharing best practices, influencing and aligning teams, and being a technical ambassador for software reuse across the wider Amazon organization.
+
+### **About You**
+
+**Required:**
+
+- 3+ years of non-internship professional software development experience.
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience.
+- Experience programming with at least one software programming language.
+
+**Preferred:**
+
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience.
+- Bachelor's degree in computer science or equivalent.
+
+### **Benefits**
+
+- The base pay for this position ranges from \$129k–\$224k per year.
+- Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits."
+100,"### **Summary**
+
+Acho is seeking a Senior Frontend Software Development Engineer for their AI-Native ERP Platform to join their team in San Francisco, CA. The role involves designing and implementing cutting-edge solutions to shape the future of operations.
+
+### **About the Role**
+
+- As a key member of our development squad, you will play a crucial role in shaping the future of operations by designing and implementing cutting-edge solutions for our AI-native ERP platform.
+- You will work closely with our product designer to create amazing features that delight users, focusing on UI/UX, design, and business logic.
+- Frontend Development: Design and implement high-quality frontend code using modern web client-side technologies and frameworks.
+- Collaboration: Work closely with our product designer to create user-centric designs and implement them efficiently.
+- Problem-Solving: Identify and resolve complex technical issues that arise during development.
+
+### **About You**
+
+**Required:**
+
+- BS or Master degree in Computer Science.
+- 1-3 years of experience in frontend development.
+- Proficient in HTML, CSS, JavaScript, and modern web frameworks like Vue.js or React.js.
+- Excellent communication skills in verbal and written English.
+
+**Preferred:**
+
+- Not provided.
+
+### **Benefits**
+
+- Competitive Salary: \$120,000 - \$150,000 per year.
+- Comprehensive benefits package, including health insurance, retirement plan, and paid time off.
+- Hybrid remote and on-site work environment, allowing for flexibility and work-life balance."
